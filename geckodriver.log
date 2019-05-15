@@ -1344,3 +1344,184 @@ console.error: BroadcastService:
 
 1557917115868	Marionette	INFO	Stopped listening on port 41625
 [Parent 2799, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557942254326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HqLyOrKdJ99u"
+1557942255504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557942255504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557942255505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557942258248	Marionette	INFO	Listening on port 44371
+1557942258339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4606, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557942442536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uIDAoCfqFV6x"
+1557942445228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557942445228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557942445228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557942448756	Marionette	INFO	Listening on port 35723
+1557942448782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557942597874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uQo12cMUlJu2"
+1557942598897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557942598897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557942598898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557942601135	Marionette	INFO	Listening on port 41817
+1557942601200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557942841671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AWS2vhgNCVtI"
+1557942842810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557942842811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557942842811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557942845050	Marionette	INFO	Listening on port 36321
+1557942845084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557943780512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ef9mS2hVjzaS"
+1557943781600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557943781601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557943781601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557943783891	Marionette	INFO	Listening on port 33463
+1557943783929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1557943842399	Marionette	INFO	Stopped listening on port 33463
+1557943858700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uU37Hly7DiUc"
+1557943859788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557943859788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557943859788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557943862224	Marionette	INFO	Listening on port 45797
+1557943862310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+[Child 6836, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557943918759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BeOTrcndYIaJ"
+1557943919902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557943919902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557943919903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557943922336	Marionette	INFO	Listening on port 46709
+1557943922369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+Exiting due to channel error.
+[Child 7175, Chrome_ChildThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 7175, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557943954787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qSmuT6WhT20f"
+1557943956484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557943956484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557943956484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557943958736	Marionette	INFO	Listening on port 44615
+1557943958812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 7360, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557944110849	Marionette	INFO	Stopped listening on port 44615
+1557944333865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UKjsQi3elsyO"
+1557944335526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557944335527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557944335527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557944338092	Marionette	INFO	Listening on port 39433
+1557944338181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 7739, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-qV0aJY/firefox-66.0.4+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557945694194	Marionette	INFO	Stopped listening on port 39433
+1557945949684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j8t6K2QybcWY"
+1557945950754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557945950755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557945950755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557945953613	Marionette	INFO	Listening on port 37559
+1557945953697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557946164289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.03znpDyLuGRI"
+1557946165394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557946165394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557946165394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557946168016	Marionette	INFO	Listening on port 43659
+1557946168103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dvngeac8rg9mb.cloudfront.net/cache/dashboard_2488.js, line 7980: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+

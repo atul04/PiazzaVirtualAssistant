@@ -2,7 +2,7 @@
 # @Date:   2019-01-27T16:51:15+05:30
 # @Email:  atulsahay01@gmail.com
 # @Last modified by:   atul
-# @Last modified time: 2019-05-15T16:16:18+05:30
+# @Last modified time: 2019-05-16T00:19:20+05:30
 
 
 
@@ -72,16 +72,27 @@ tree = lxml.html.fromstring(driver.page_source) #new content
 QuestionTitles = tree.findall('.//div[@class="question_group"]')
 print(len(QuestionTitles))
 
+#Consisting of all higher headers such as pinned
 feedList = []
 
 for t in QuestionTitles:
     directChildrenList = t.getchildren() # returns all the direct children of the html object
+    #particular feed such as pinned details
     perFeedMap = {}
     print(directChildrenList[0].text_content()[2:])
     perFeedMap['HeaderTitle'] = directChildrenList[0].text_content()[2:]
+    className = list(directChildrenList[0].attrib['class'].split())
+    if(className[0] == 'start_closed'):
+        b = driver.find_elements_by_id(directChildrenList[0].attrib['id'])
+        # print(b)
+        b[0].click()
+        time.sleep(5)
+
+    # print(className)
     perContentList = []
     perFeedMap['Content'] = perContentList
     list_of_contents_in_feed = directChildrenList[1].getchildren()
+
     for eachContent in list_of_contents_in_feed:
         eachContentMap = {}
         # print(eachContent.attrib['id'])
@@ -91,19 +102,51 @@ for t in QuestionTitles:
         else:
             eachContentMap['unread'] = 0
         # print(eachContent.classes)
-        feedChildrens = eachContent.getchildren()
-        date = feedChildrens[0].getchildren()[0].text_content()
+        questionChildrens = eachContent.getchildren()
+        date = questionChildrens[0].getchildren()[0].text_content()
         # print(date)
         eachContentMap['date'] = date
-        feedTitleRaw = list(feedChildrens[3].getchildren()[0].text_content().split('\n'))
-        feedTitle = ''
+        questionTitleRaw = list(questionChildrens[3].getchildren()[0].text_content().split('\n'))
+        quesstionTitle = ''
         length = -1
-        for eachText in feedTitleRaw:
+        for eachText in questionTitleRaw:
             if(len(eachText)>length):
-                feedTitle = eachText
+                questionTitle = eachText
                 length = len(eachText)
         # print(feedTitle)
-        eachContentMap['feedTitle'] =feedTitle
+        eachContentMap['Title'] = questionTitle
+        perContentList.append(eachContentMap)
+    feedList.append(perFeedMap)
+
+
+
+
+# Now to store the tags and the main text in per question of per feed.
+
+for perFeed in feedList:
+    questionList = perFeed['Content']
+    for perQuestion in questionList:
+        qId = perQuestion['id']
+        print(perQuestion['Title'])
+        if(perQuestion['unread'] == 0):
+            print("read\n\n")
+            b = driver.find_elements_by_id(qId)
+            # print(b)
+            b[0].click()
+            time.sleep(5)
+            tree = lxml.html.fromstring(driver.page_source) #new content
+            tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
+            tagList = []
+            for eachTag in tagSet:
+                tagList.append(eachTag.text_content())
+            print(tagList)
+            perQuestion['tags']=','.join(tagList)
+            questionText = tree.xpath('//div[@id="questionText"]')[0].text_content()
+            # print(questionText)
+            perQuestion['main_content'] = questionText
+        else:
+            print("unread\n\n")
+
 
 
 
@@ -113,12 +156,24 @@ for t in QuestionTitles:
 # print(l)
 
 
-print(QuestionFeeds)
-for t in QuestionFeeds:
-    print(t.attrib['id'])
-    b = driver.find_elements_by_id(t.attrib['id'])
-    print(b)
-    b[0].click()
+
+#
+# # print(QuestionFeeds)
+# for t in QuestionFeeds:
+#     print(t.attrib['id'])
+#     b = driver.find_elements_by_id(t.attrib['id'])
+#     print(b)
+#     b[0].click()
+#     time.sleep(2)
+#     tree = lxml.html.fromstring(driver.page_source) #new content
+#     tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
+#     for eachTag in tagSet:
+#         print(eachTag.text_content())
+#     questionText = tree.xpath('//div[@id="questionText"]')[0].text_content()
+#     print(questionText)
+
+
+
 
 
 #
