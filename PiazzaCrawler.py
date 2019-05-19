@@ -2,7 +2,7 @@
 # @Date:   2019-01-27T16:51:15+05:30
 # @Email:  atulsahay01@gmail.com
 # @Last modified by:   atul
-# @Last modified time: 2019-05-16T21:08:04+05:30
+# @Last modified time: 2019-05-18T22:58:01+05:30
 
 
 
@@ -62,71 +62,100 @@ print(len(QuestionTitles))
 #Consisting of all higher headers such as pinned
 feedList = []
 
-for t in QuestionTitles[:2]:
-    directChildrenList = t.getchildren() # returns all the direct children of the html object
-    #particular feed such as pinned details
-    perFeedMap = {}
-    print(directChildrenList[0].text_content()[2:])
-    perFeedMap['HeaderTitle'] = directChildrenList[0].text_content()[2:]
-    className = list(directChildrenList[0].attrib['class'].split())
-    if(className[0] == 'start_closed'): # if Header not open then open it
-        b = driver.find_elements_by_id(directChildrenList[0].attrib['id'])
-        b[0].click()
-        time.sleep(5)
 
-    perContentList = []
-    perFeedMap['Content'] = perContentList
-    list_of_contents_in_feed = directChildrenList[1].getchildren()
-    for eachContent in list_of_contents_in_feed:
-        eachContentMap = {}
-        eachContentMap['id'] = eachContent.attrib['id']
-        qId = eachContentMap['id']
-        if( "unread" in list(eachContent.attrib['class'].split())):
-            eachContentMap['unread'] = 1
-        else:
-            eachContentMap['unread'] = 0
-            b = driver.find_elements_by_id(qId)
-            b[0].click()
-            time.sleep(5)
-            tree = lxml.html.fromstring(driver.page_source) #new content
-            tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
-            tagList = []
-            for eachTag in tagSet:
-                tagList.append(eachTag.text_content())
-            print(tagList)
-            eachContentMap['tags']=','.join(tagList)
-            questionText = tree.xpath('//div[@id="questionText"]')[0].text_content()
-            eachContentMap['main_content'] = questionText
+# Writing to the csv files ( particularly 2 READ and UNREAD )
+with open("PIAZZA_read.csv",mode='w') as file:
+    writer = csv.writer(file,delimiter=',',quotechar='"',quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(['ID','HEADER','TITLE','MAIN_CONTENT','DATE','TAGS'])
+    try:
+        for t in QuestionTitles:
+            directChildrenList = t.getchildren() # returns all the direct children of the html object
+            #particular feed such as pinned details
+            perFeedMap = {}
+            print(directChildrenList[0].text_content()[2:])
+            perFeedMap['HeaderTitle'] = directChildrenList[0].text_content()[2:]
+            className = list(directChildrenList[0].attrib['class'].split())
+            if(className[0] == 'start_closed'): # if Header not open then open it
+                b = driver.find_elements_by_id(directChildrenList[0].attrib['id'])
+                b[0].click()
+                time.sleep(5)
 
-
-        questionChildrens = eachContent.getchildren()
-        date = questionChildrens[0].getchildren()[0].text_content()
-        eachContentMap['date'] = date
-        questionTitleRaw = list(questionChildrens[3].getchildren()[0].text_content().split('\n'))
-        quesstionTitle = ''
-        length = -1
-        for eachText in questionTitleRaw:
-            if(len(eachText)>length):
-                questionTitle = eachText
-                length = len(eachText)
-        eachContentMap['Title'] = questionTitle
-        perContentList.append(eachContentMap)
-    feedList.append(perFeedMap)
+            perContentList = []
+            perFeedMap['Content'] = perContentList
+            list_of_contents_in_feed = directChildrenList[1].getchildren()
+            feedHeader = perFeedMap['HeaderTitle'] #TO WRITE INTO CSV
+            for eachContent in list_of_contents_in_feed:
+                eachContentMap = {}
+                eachContentMap['id'] = eachContent.attrib['id']
+                qId = eachContentMap['id']
+                if( "unread" in list(eachContent.attrib['class'].split())):
+                    eachContentMap['unread'] = 1
+                else:
+                    eachContentMap['unread'] = 0
+                    b = driver.find_elements_by_id(qId)
+                    b[0].click()
+                    time.sleep(5)
+                    tree = lxml.html.fromstring(driver.page_source) #new content
+                    tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
+                    tagList = []
+                    for eachTag in tagSet:
+                        tagList.append(eachTag.text_content())
+                    print(tagList)
+                    eachContentMap['tags']=','.join(tagList)
+                    questionText = tree.xpath('//div[@id="questionText" and @class="post_region_text"]')[0].text_content()
+                    eachContentMap['main_content'] = questionText
 
 
+                questionChildrens = eachContent.getchildren()
+                date = questionChildrens[0].getchildren()[0].text_content()
+                eachContentMap['date'] = date
+                questionTitleRaw = list(questionChildrens[3].getchildren()[0].text_content().split('\n'))
+                quesstionTitle = ''
+                length = -1
+                for eachText in questionTitleRaw:
+                    if(len(eachText)>length):
+                        questionTitle = eachText
+                        length = len(eachText)
+                eachContentMap['Title'] = questionTitle
 
+                qId    = eachContentMap['id']
+                qTitle = eachContentMap['Title']
+                qDate  = eachContentMap['date']
+                if(eachContentMap['unread'] == 0):
+                    qTags    = eachContentMap['tags']
+                    qContent = eachContentMap['main_content']
+                    writer.writerow([qId,feedHeader,qTitle,qContent,qDate,qTags])
+                else:
+                    print("unread\n")
 
-# # Now to store the tags and the main text in per question of per feed.
+            # feedList.append(perFeedMap)
+    except:
+        print("error")
+
 #
-# for perFeed in feedList:
-#     questionList = perFeed['Content']
-#     for perQuestion in questionList:
-#         qId = perQuestion['id']
-#         print(perQuestion['Title'])
-#         if(perQuestion['unread'] == 0):
-#             print("read\n\n")
+# for t in QuestionTitles:
+#     directChildrenList = t.getchildren() # returns all the direct children of the html object
+#     #particular feed such as pinned details
+#     perFeedMap = {}
+#     print(directChildrenList[0].text_content()[2:])
+#     perFeedMap['HeaderTitle'] = directChildrenList[0].text_content()[2:]
+#     className = list(directChildrenList[0].attrib['class'].split())
+#     if(className[0] == 'start_closed'): # if Header not open then open it
+#         b = driver.find_elements_by_id(directChildrenList[0].attrib['id'])
+#         b[0].click()
+#         time.sleep(5)
+#     perContentList = []
+#     perFeedMap['Content'] = perContentList
+#     list_of_contents_in_feed = directChildrenList[1].getchildren()
+#     for eachContent in list_of_contents_in_feed:
+#         eachContentMap = {}
+#         eachContentMap['id'] = eachContent.attrib['id']
+#         qId = eachContentMap['id']
+#         if( "unread" in list(eachContent.attrib['class'].split())):
+#             eachContentMap['unread'] = 1
+#         else:
+#             eachContentMap['unread'] = 0
 #             b = driver.find_elements_by_id(qId)
-#             # print(b)
 #             b[0].click()
 #             time.sleep(5)
 #             tree = lxml.html.fromstring(driver.page_source) #new content
@@ -135,31 +164,45 @@ for t in QuestionTitles[:2]:
 #             for eachTag in tagSet:
 #                 tagList.append(eachTag.text_content())
 #             print(tagList)
-#             perQuestion['tags']=','.join(tagList)
+#             eachContentMap['tags']=','.join(tagList)
 #             questionText = tree.xpath('//div[@id="questionText"]')[0].text_content()
-#             # print(questionText)
-#             perQuestion['main_content'] = questionText
-#         else:
-#             print("unread\n\n")
+#             eachContentMap['main_content'] = questionText
 #
-
-# Writing to the csv files ( particularly 2 READ and UNREAD )
-with open("PIAZZA_read.csv",mode='w') as file:
-    writer = csv.writer(file,delimiter=',',quotechar='"',quoting=csv.QUOTE_MINIMAL)
-    writer.writerow(['ID','HEADER','TITLE','MAIN_CONTENT','DATE','TAGS'])
-    for perFeed in feedList:
-        questionList = perFeed['Content']
-        feedHeader = perFeed['HeaderTitle']
-        for perQuestion in questionList:
-            qId    = perQuestion['id']
-            qTitle = perQuestion['Title']
-            qDate  = perQuestion['date']
-            if(perQuestion['unread'] == 0):
-                qTags    = perQuestion['tags']
-                qContent = perQuestion['main_content']
-            else:
-                print("unread\n")
-            writer.writerow([qId,feedHeader,qTitle,qContent,qDate,qTags])
-
-
+#
+#         questionChildrens = eachContent.getchildren()
+#         date = questionChildrens[0].getchildren()[0].text_content()
+#         eachContentMap['date'] = date
+#         questionTitleRaw = list(questionChildrens[3].getchildren()[0].text_content().split('\n'))
+#         quesstionTitle = ''
+#         length = -1
+#         for eachText in questionTitleRaw:
+#             if(len(eachText)>length):
+#                 questionTitle = eachText
+#                 length = len(eachText)
+#         eachContentMap['Title'] = questionTitle
+#         perContentList.append(eachContentMap)
+#
+#
+#
+#
+#
+# # Writing to the csv files ( particularly 2 READ and UNREAD )
+# with open("PIAZZA_read.csv",mode='w') as file:
+#     writer = csv.writer(file,delimiter=',',quotechar='"',quoting=csv.QUOTE_MINIMAL)
+#     writer.writerow(['ID','HEADER','TITLE','MAIN_CONTENT','DATE','TAGS'])
+#     for perFeed in feedList:
+#         questionList = perFeed['Content']
+#         feedHeader = perFeed['HeaderTitle']
+#         for perQuestion in questionList:
+#             qId    = perQuestion['id']
+#             qTitle = perQuestion['Title']
+#             qDate  = perQuestion['date']
+#             if(perQuestion['unread'] == 0):
+#                 qTags    = perQuestion['tags']
+#                 qContent = perQuestion['main_content']
+#             else:
+#                 print("unread\n")
+#             writer.writerow([qId,feedHeader,qTitle,qContent,qDate,qTags])
+#
+#
 driver.quit()
