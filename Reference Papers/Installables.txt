@@ -39,4 +39,7 @@ B. BERT
 
 4. https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
 
+C. NLP Tokens (NLTK)
+
+1. https://medium.com/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b
 
