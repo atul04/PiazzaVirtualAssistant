@@ -1,0 +1,45 @@
+Installs (pip3 - 64 bit):
+ command - pip3 install numpy
+1. numpy
+2. scipy
+3. matplotlib
+4. scikit-learn
+5. scikit-image
+6. opencv (from .whl)
+7. bert
+8. lime
+9. tensorflow==2.0.0-beta1
+10. urllib3
+11. requests
+12. selenium
+13. pandas
+14. bs4
+15. lxml
+
+References:
+
+A. LIME
+
+1. https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/
+
+2. https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b
+
+3. https://www.kdnuggets.com/2016/08/introduction-local-interpretable-model-agnostic-explanations-lime.html
+
+4. :
+https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+
+B. BERT
+
+1. https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+2.https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384
+
+3. https://www.topbots.com/solve-ai-nlp-problems-guide/
+
+4. https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+
+C. NLP Tokens (NLTK)
+
+1. https://medium.com/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b
+

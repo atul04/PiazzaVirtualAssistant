@@ -1,0 +1,1112 @@
+ID,HEADER,TITLE,MAIN_CONTENT,DATE,TAGS
+,,,,,
+jtcsvrc425l6j6,Week 3/17 - 3/23,      Amtega2560 board problem,Respected SirOur avr atmega2560 development board has stopped working properly. The port pins are getting high and low on there own. Most probably the board has been short circuited.We looked for the same board in the market but it was not available. We also looked online but it will take a lot of time to So can we use arduino atmega2560 board instead of Atmega2560 development board as the micro-controller is same in both the boards i.e mega2560.,3/17/19,"thirsty_crow,nex_hardware_queries"
+,,,,,
+jt52fc63pvx1zu,Week 3/10 - 3/16,      Result Help,"Sir, 
+A mail was sent on the helpdesk three days ago regarding a problem we have been facing. There has been no reply yet. Please help.",03-12-2019,ant_bot
+,,,,,
+jszxltjc3z3202,Week 3/3 - 3/9,      Can we use Yaw sensor,"We want to use a Yaw sensor as an additional actuator to turn the robot(ant-bot) perfectly by 90 degrees/ 45 degrees.
+Can we use it?
+ 
+Team ID: 2121
+Theme: Ant-bot",03-08-2019,ant_bot
+,,,,,
+jsyrhz2e1in1qg,Week 3/3 - 3/9,      Certificate of Participation,How and till when will get the certificate of participation?,03-07-2019,ant_bot
+,,,,,
+jsxe42eq9zd6ja,Week 3/3 - 3/9,      What's next ? When will we get the certificates and what about the robot now ?, ,03-06-2019,thirsty_crow
+,,,,,
+jsklh14pyhx396,Week 2/24 - 3/2,      Regarding task 4 video submisssion,"eYRC TeamID - 2683 sir, due to large file we were unable to upload on you tube on time, and also we mistook the penalty dates after 24 th Feb.Now we are trying since morning to upload the link as we have send the code yesterday only. We have sent you mail regarding the video submission Please consider our mail .",2/25/19,ant_bot
+,,,,,
+jsevrfst4qw6dc,Week 2/17 - 2/23,      Battery drains on applying PWM,"Respected sir, We have changed all the three components as we were having a fault in driving the robot : Battery, Motor Driver & Motors according to the given specifications last week. After that our robot started working properly. Suddenly, today we are getting an issue that our battery drains away as soon we give PWM to it. It is a genuine problem and we request that please look into the matter and reply at the earliest. Our Team ID is AntBot #2640.
+Following is the video depicting the same:
+",2/21/19,ant_bot
+,,,,,
+js1hille5h26hg,Week 2/10 - 2/16,      Code not evaluated.,"Sir,
+In the results for the progress task, the remark says code not submitted and hence deduction of marks are there. But we had submitted the codes in folder with our team id. Kindly re evaluate our submission. Also it states that video was not from top angle view. But we tried the best possible way to capture the video overhead the flex. Kindly reconsider the penalty.
+Team ID:400",02-12-2019,ant_bot
+,,,,,
+js1atstgbz7fj,Week 2/10 - 2/16,      Penalty Reconsideration,"Team ID: #226Sir/Madam,We have received a penalty of 25 marks for an offset from top view. We think the offset is little and also the entire arena is visible. We request you to reconsider the penalty marks and decrease the penalty because we tried the best available to get the top view.Thanks!",02-12-2019,ant_bot
+,,,,,
+jrh0ftg4vb77pd,Week 1/27 - 2/2,      Respond to mail sent to Helpdesk,"Team ID 108.
+ 
+We have sent a message to helpdesk@e-yantra 2 days back. Please kindly respond to the query
+ 
+Mail sent from team leader's mail ID",1/29/19,ant_bot
+,,,,,
+jrgmyrv3ymj77o,Week 1/27 - 2/2,      Very less change in valued for line sensor.,"Sir we tried calibrating the line sensor for our TC robot.We adjusted the potentiometers to full brightness as well as dim brightness.We also tried using ambient room light, flashlight, as well as no light during the night.Our white light sensor readings are in the range of 80s to 90s. There's very less change or even no change when it goes from black surface to white surface.Is it a fault of the white light sensor? Flex sheet? Or should we go ahead with these values.We tried moving the robot from white surface to black surface. The change was hardly ± 2 to 5.Black: 84 to 87.White: 83 to 88.",1/28/19,"thirsty_crow,nex_hardware_queries"
+,,,,,
+jrc43wyy40nh9,Week 1/20 - 1/26,      Line sensor,"Hello,
+We were given a three channel line sensor for our task (Thirsty Crow).
+NOTE: It was working properly till yesterday, and has suddenly stopped working.
+The sensor is not working properly and is showing some random values for black/white. What should we do?",1/25/19,"thirsty_crow,nex_hardware_queries"
+,,,,,
+jrahfza8yhd41y,Week 1/20 - 1/26,      Line Sensor not working,"Sir,
+The LED in the line sensor has stopped glowing even when powered on. The values from the analog pins are not changing at all  whether we expose the sensor to white or black paper. Hence the values displayed are probably junk and as  mentioned by us  in the mail sent, can we purchase a new line sensor which is the same with your permission?
+Ant bot Team ID #6338
+Team Leader - Arsh Goyal",1/24/19,"ant_bot,nex_hardware_queries"
+,,,,,
+jr7vtj7vpfx3bc,Week 1/20 - 1/26,      Regaeding white line sensor,"Sir/Madam,
+We are facing problem while using white line sensor as it gives us analog values only,hence, it is becoming very difficult for us to judge the movemment of the bot because these analog values are really close to each other therefore it becomes difficult to distinguish between them.
+
+So, can we use three IR sensor modules instead of the white line sensor to avoid this problem as it gives us only digital values?",1/22/19,"ant_bot,nex_hardware_queries"
+,,,,,
+jr3kuzkel5k5kr,Week 1/13 - 1/19,      Chassis,Can we use the frame part of the firebird alone for the chassis?,1/19/19,"nutty_squirrel,thirsty_crow,ant_bot"
+,,,,,
+jr2em3twqf3iq,Week 1/13 - 1/19,      #2187 #AB#,"Progress task is to be submitted at Feb 1,2019 12:00am(on portal)  means it is till 31st January night we have time to submit right.",1/19/19,ant_bot
+,,,,,
+jr1yacikrd15qx,Week 1/13 - 1/19,      Regarding task 2 result,I have mailed eyantra regarding TASK 2 issue. Please reply asap. Team id #975,1/18/19,thirsty_crow
+,,,,,
+jr1w9tixuto2a,Week 1/13 - 1/19,      Request fpr replacement of Raspberry Pi3,"Today while working with the bot,the raspberry pi was working fine...suddenly we saw some smoke was coming from the pi and the it got disconnected from the wi-fi network and till now it is not being connected...even the blinking LED's of the pi are not blinking ...
+If you replace it with a new one we shall be very greatful to you...we can provide some images or video to support our statement that it stopped working...
+Looking eagerly to your reply...",1/18/19,ant_bot
+,,,,,
+jr1qf3g1az76pa,Week 1/13 - 1/19,      Regarding Battery,The battery provided in kit is unable to power our bot even after charging.So can we use our own battery?,1/18/19,nutty_squirrel
+,,,,,
+jr1j7v2t2k6ph,Week 1/13 - 1/19,      Use of extra actuators,Sir can we use extra two actuators other than given for pick and place mechanisms,1/18/19,ant_bot
+,,,,,
+jqomuljtkgo2rk,Week 1/6 - 1/12,      Query regarding line following,"Hi all.
+Team ID #108.
+ 
+I have a query regarding line sensor.
+The gap between the left IR sensor and the right IR sensor is little more than 3cm. 
+1) While line following, if the bot deviates from the line, we will not know in which direction it had turned until and unless one of the left/right sensor reads black as the gap between the sensors is little big. As in, let us say the middle IR goes just off the line. At this instant the readings will be all white as the gap between the middle and right/left is more than line thickness. So until the extreme ends IR sensors reads black, we cannot determine the direction in which it has deviated. So even if we correct the position, the movement of the bot looks somewhat zigzag like thing.
+2) As mentioned earlier, the gap between left and right IR sensors is little more than 3cm, we cannot detect nodes like the one before the TDZ. 
+ 
+Any suggestions will be greatly appreciated.
+ 
+Thank you.",01-09-2019,ant_bot
+,,,,,
+jqgjl3p9h5m6ts,Week 12/30 - 1/5,      Raspberry pi stopped working,"We were not able to find the card reader due to which we were not  able to test the hardware within the given time frame. However once we found the card reader we started the testing , the raspberry pi was working fine until yesterday but today it is not even powering up , both the red and green LED s are not working , it is dead to be precise.
+We used the recommended power source and have gone through all the other alternatives . 
+We looked for the solution online and it stated that in these cases it is possible that the raspberry pi may be defective and needs to be changed .
+ 
+Please help us with the same .",01-03-2019,ant_bot
+,,,,,
+jqgd38hy4qgwf,Week 12/30 - 1/5,      Finale,How many teams from each theme are invited for finals at IIT Bomaby ? Regards ,01-03-2019,thirsty_crow
+,,,,,
+jqg9gvmwq8u1m0,Week 12/30 - 1/5,      Elimination in task 3,Sir is there any elimination in task 3?,01-03-2019,ant_bot
+,,,,,
+jqfkew8dwk16up,Week 12/30 - 1/5,      Regarding Task 3 submission,"Sir/Ma'am 
+We were trying to submit 15 minutes before the deadline but the portal was not excepting the folder, showing server error. I would like to know if penalty would be charged for the same.
+eYRC-855",01-03-2019,ant_bot
+,,,,,
+jqfjymfzimvsa,Week 12/30 - 1/5,      Regarding task 3 submission,"I am from team 235, we had submitted our task 3 before the deadline but on the portal it showing that the time of submission is 00:00:23, so please guide us for the same.",01-03-2019,ant_bot
+,,,,,
+jqf9zwx0jzg46e,Week 12/30 - 1/5,      [Ant Bot]Extra Actuator for Camera Rotation,Can we use an extra actuator/servo motor for 360 degree turning of rpi camera(yaw)? ,01-02-2019,ant_bot
+,,,,,
+jqcq0unrl995rs,Week 12/30 - 1/5,      Is bond paper or 135 gsm allowed instead of 100 gsm paper?, ,01-01-2019,ant_bot
+,,,,,
+jqbuy5qxi2453f,Week 12/30 - 1/5,      Question for Ant wall,"Sir, We read the rule-book and mention that   cube should cover with red or green or blue colour 
+ 
+can we colour the ant wall by any specific colour it is not given in rulebook   ",12/31/18,ant_bot
+,,,,,
+jqbg4vsfatn4vc,Week 12/30 - 1/5,      Picam not working. Need Help.,"I'm writing this message on behalf of team #3512.
+Sir we couldn't complete hardware testing video because of our End Semester exams.
+ 
+Sir our picam is not working even after reconnecting the circuit many times,
+ 
+we have made the following circuit,
+ 
+20181231_031457.jpg
+ 
+on running Test.py command we are getting following response
+ 
+Screenshot_from_20181231_031907.png
+ 
+and when we are running the command
+ 
+raspistill -o image.jpg -v
+ 
+we are yet not able to take photos from our camera module
+ 
+Screenshot_from_20181231_031839.png",12/31/18,ant_bot
+,,,,,
+jqarwgqsgm09z,Week 12/30 - 1/5,      Module not found,"During hardware testing, while compiling the test.py file ,we get an error saying  CV2  module is not found.
+Should we explicitly install it? ",12/30/18,ant_bot
+,,,,,
+jqakvrim80m1ml,Week 12/30 - 1/5,      URGENT QUESTION ON USAGE OF LIBRARIES!!,"1.can we use additional libraries in our c code?
+2.can we use ""arduino code"" in our avr for programming.",12/30/18,thirsty_crow
+,,,,,
+jqael7btmgy4ws,Week 12/30 - 1/5,      Number of cameras that can be used,"#2535
+Can we use more than 1 cameras(picam) for the design of our antbot and solution",12/30/18,ant_bot
+,,,,,
+jq9owl2ru1e3xs,Week 12/23 - 12/29,      White line sensor not working,"We of team AB#34 , team_id 1735 have a problem with the white line sensor you sent. 
+We are sorry that we are intimating you after the deadline. 
+We want to know whether we could use a five channel ir sensor we have or the same one you sent. If not could you help us where to buy this component.
+We have sent an email 2 days back but we haven't got any reply.
+Could you please reply this post as soon as possible.
+Thank you
+",12/29/18,ant_bot
+,,,,,
+jq9ogadsnpw1dw,Week 12/23 - 12/29,      Trash placement Table in rulebook,"
+hello sir,
+i am not able to understand this table. how did we conclude about serv1 of AH1? does ""place the yellow block"" implies bot has to place the trash(yelow block) to serv1/2 or pick the yellow block from serv1/2?",12/29/18,ant_bot
+,,,,,
+jq9hp6wyrze348,Week 12/23 - 12/29,      Regarding Hardware Testing,Is it Compulsory to upload the H/W testing Video ? ,12/29/18,ant_bot
+,,,,,
+jq9djxqpzlv350,Week 12/23 - 12/29,      Guidelines missing,"#2535
+We werent able to find guidelines on pi cam and arduino connection to the raspberry Pi.
+Can we know where can we find it,please.",12/29/18,ant_bot
+,,,,,
+jpz2ss5vey51u3,Week 12/16 - 12/22,      variable meaning in test.py,"
+Sir what is the job of the variables t and val?
+and when I run this code it prints the following and shows a list of errors.
+",12/22/18,ant_bot
+,,,,,
+jpwcjw7z3mu7ge,Week 12/16 - 12/22,      Regarding pi cam,How the pi camera can be fitted on the stand ?,12/20/18,ant_bot
+,,,,,
+jpw5ujibp9o3cj,Week 12/16 - 12/22,      regarding hardware testing,after uploading a code on arduino we are running a Test.py file but instead of running it will show us a blank only a cursor and there is also no any indication from white line following sensor the initially red light is not glowing ,12/20/18,ant_bot
+,,,,,
+jpvidz1rmqgrv,Week 12/16 - 12/22,      Regarding hardware testing,"Hardware Connection has been done, Camera not enabled , error is coming. sir please give answer asapIMG_20181219_235044.jpg
+1545243854630..jpg
+ 
+Team id-322",12/19/18,ant_bot
+,,,,,
+jpvex8gvz282c0,Week 12/16 - 12/22,      regarding white line following sensor and pi-cam,"sir ,
+1) can u tell us how can we check single component pi-cam and white line  following sensor separately
+2) when i connect vcc and ground to white line  following sensor then it will not glow any light how we claim to know that whether it is working properly or not , because when we are connected all the components in proper manner as per the instructions given in the pdf after compilation there is no any indication from white line sensor ??  ",12/19/18,ant_bot
+,,,,,
+jpve8vhxjuk1ys,Week 12/16 - 12/22,      LINE FOLLOWING SENSOR NOT WORKING,"Team 235
+2 out of 3 IR (RED) sensors not working after connections according to the pdf
+Tested all the permutations with VCC and GND but only one LED is glowing while the remaining two are not responding
+Faulty Apparatus may be when can we ask for replacement?
+And what should we do about our hardware testing?",12/19/18,ant_bot
+,,,,,
+jpv9xz98nzr516,Week 12/16 - 12/22,      Regarding PiCam on MoboXterm,"In antbot, how can we see the camera preview of picam in Mobaxterm for hardware testing ?",12/19/18,ant_bot
+,,,,,
+jpv9qja1dab1c1,Week 12/16 - 12/22,      #2187,"THe shaft of motor is too big for the hole in the wheel. What can we do?
+can  we make the Hole of wheel  bigger by any means?",12/19/18,ant_bot
+,,,,,
+jpv9185lpk530f,Week 12/16 - 12/22,      Picam not working,"Sir,I am writing this message on behalf of team855 .The picam we got always shows the error:mmal: No data received from sensorWe can checked all the connections thoroughly while while being grounded taking care of ESD.Kindly help us regarding this and guide us on what to do next as without the cam working we can't upload the hardware testing video.Thanks",12/19/18,ant_bot
+,,,,,
+jpv5uxw1q797ok,Week 12/16 - 12/22,      SSH error rpi3,"Hello Sir/Madam,
+We are not able to enter the password for raspberrypi configuration process.The input freezes and the keyboard doesnt work anymore and hence we are not able to shoot a hardware testing video. Could you help us with the same please.
+Our team id is #2640.
+Thanking you in anticipation.",12/19/18,ant_bot
+,,,,,
+jpv5im2aw1r7fy,Week 12/16 - 12/22,      Hardware testing related query,"At our place internet speed is not enough so we are not able download Rasberrypie  os from your given link.
+So can we upload the video later",12/19/18,ant_bot
+,,,,,
+jpuppsp6fdm4zm,Week 12/16 - 12/22,      Hardware testing,"In the kit L298 motor driver is not working,where we have to acknowledge that??????",12/19/18,thirsty_crow
+,,,,,
+jpu9nhhu4ol6rn,Week 12/16 - 12/22,      Not getting output,"1) We have made the connections according to the given PDF but we are not getting the output, i.e, the line sensor is not sensing anything, the DC motors are not running and micro servo motor is also not working.
+2) We have installed the Test.ino files in Arduino and ran the Test.py file in Raspberry pi but not getting anything. Red light of the camera gets turned on but there is no frame appearing on my laptop screen.
+Please help us out here.
+ ",12/19/18,ant_bot
+,,,,,
+jpu5nqt5jnsqw,Week 12/16 - 12/22,      Regarding WiFi connection,I have performed all the steps given in PDF but my WiFi is not connecting . Please answer my problem sir.,12/19/18,ant_bot
+,,,,,
+jpty5vpfrgs6ku,Week 12/16 - 12/22,      what does this line mean in hardware testing circuit? #2187,"This line say the steps 15 and 16 can only be done in Ubuntu OS.Is it true?
+If yes then let me know what is the procedure for Windows OS.
+I'm attaching the image of concerned page for easy recall.",12/18/18,ant_bot
+,,,,,
+jpts0hwlrpn119,Week 12/16 - 12/22,      Motor driver isn't working,HiI have tried to do the hardware testing however the motors are not working only one of them works when I execute the code. I wrote a mail to help desk regarding the same but still I haven't got any solution. I tried all their suggestions like testing the motors directly with battery (both worked!) And rechecked the connections of motor driver to pi gpio pins but nothing worked.I have informed them the same yet I haven't heard any kind of reply from them. Can anyone help ? I don't understand if the driver is faulty or what?Thank you.,12/18/18,ant_bot
+,,,,,
+jptm16jtukt2dy,Week 12/16 - 12/22,      Task 2 submission : team id 3703,With due regret we would like to say that we won't be able to submit the task 2 in time. As our college is a government run institution there is a elaborated process to get the kit. And some of the authorities are on leave from some time. So we haven't received the kit yet. Although we have captured the image of the arena with aruco objects from our own web cam. So can we submit that or could you please give us some more time? ,12/18/18,thirsty_crow
+,,,,,
+jptih78763pn1,Week 12/16 - 12/22,      IMPORTANT: Task 2 Submission Instructions,"Dear all,
+ 
+You need to follow following instructions for uploading for Task 2 solution:
+ 
+AB
+1. a .png image file of printed flex sheet of your theme
+ 
+NS
+1. a .png image file of printed flex sheet of your theme
+2. a .zip folder comprising of your task solutions
+ 
+TC
+1. a .png image file of the prepared Arena (captured using the Say_Cheese.py file provided in Task 2)
+ 
+ 
+Happy Learning and All the Best!! ",12/18/18,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jptbwl6hxe560y,Week 12/16 - 12/22,      Kit did not receive team id 249,We have not received the kit yet and tommorow is the last day of hardware testing...so how we can deal with this now?,12/18/18,ant_bot
+,,,,,
+jpt7qdsovud5wc,Week 12/16 - 12/22,      Hardware resources,Where are the hardware testing resources? I couldn't find in the portal. Or are we supposed to test it by ourselves? ,12/18/18,thirsty_crow
+,,,,,
+jpsk6milpoz7p1,Week 12/16 - 12/22,      Charging and usage of LiPo battery given in the Kit,"Hi all.
+ 
+This is Nishanth from team ant bot #108.
+ 
+We received the kit recently, and there is a Li-ion battery that we have to use throughout the competition.
+ 
+We want to know how long we need to charge the Li-ion batteries as overcharging them may cause the battery to burn/ blast, and over discharging it may cause it to not function properly, which we certainly dont want to happen. Also, what is the voltage beyond which it shouldnt be used / shouldnt be discharged?
+ 
+Please specify the upper voltage i.e upto what voltage it has to be charged for full capacity and the lower voltage i.e beyond which it shouldnt be discharged, so that we can atlease check using a multimeter.
+ 
+The charger you have provided doesnt have any light indication from which we can get to know if it is fully charged or not. Last time you had provided a manual for the battery is what i have heard of, from my friends. I feel you should have provided a manual for this too, as charging Li-ion batteries without knowledge/ caution can cause serious explosive/risky situations for beginners like us.
+ 
+Please provide a detailed instruction on how we should handle this.
+ 
+Thank you.",12/17/18,ant_bot
+,,,,,
+jpshgjppf02k7,Week 12/16 - 12/22,      Error on Running Arduino and Python in Raspberry pi (Not found: /dev/ttyUSB0 ),"The above screenshot depicts the error while uploading the arduino code to Arduino Nano Atmega328 board.To check the serial port number of the USB connected, opened ""Tools"", but ""Serial Port"" is grayed out.Python program after execution shows this run time error of /dev/ttyUSB0 not found.Please help me to proceed further .I have been trying to workout this from long time . searched all the forums on internet. Nothing seemed to work.Please someone Guide me through this.",12/17/18,ant_bot
+,,,,,
+jprt7elr6fy497,Week 12/16 - 12/22,      rpi3 rebooting error,"sir I followed the given steps to resize partition and enable camera but I am getting the following error. Please help me to resolve it.
+ 
+
+
+ ",12/17/18,ant_bot
+,,,,,
+jprgy3bsvw74zg,Week 12/16 - 12/22,      Hardware testing task,"1) Are the wires (male to male, female to female and male to female) you have provided to us sufficient to make all connections or we need to buy some more wires?
+ 
+2) Arduino has only 2 GND ports but the connection needs 7 GND ports. Can you tell me how to make these connections?
+ 
+ 
+3) If the answer of question 2 is to use perf board then how to start with it? Can we solder it?",12/17/18,ant_bot
+,,,,,
+jpr6v6fpjyj179,Week 12/16 - 12/22,      python version in rpi3,"sir python 2 version is installed in rpi3 but in task 0 we were asked to install python 3 version...so should i download the python 3 version in rpi3 too?
+ ",12/16/18,ant_bot
+,,,,,
+jpqy0x4hofnvl,Week 12/16 - 12/22,      KIT not received," Sir, Our team ID is 3704 .
+Our result was delayed due to some technical issues
+
+we have not yet received robotic kit.
+Sir, We want to make sure that our kit has been shipped or not.
+If it's already shipped.
+Please provide us tracking ID. As we are not able to see it on the portal.",12/16/18,"thirsty_crow,ant_bot,nutty_squirrel"
+,,,,,
+jpqmb5at4if5q3,Week 12/16 - 12/22,      Raspberry pi camera is not working .#antbot,"Team I'd :#2088
+
+  The camera which was provided by eyantra is not working .if we use our own pi camera it is working fine..
+
+ I am getting the following error when I run the code.
+
+Please look through the issue ..thk u 
+
+
+ 
+",12/16/18,ant_bot
+,,,,,
+jpqek1ah1105mn,Week 12/16 - 12/22,      Regarding camera,"Sir, the camera provided to us is not wireless. So how do we connect it with the laptop, as the camera has to be placed at 7ft hieght and the usb cable is too small.Please suggest early",12/16/18,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jpprlx84ebs1b9,Week 12/9 - 12/15,      Opencv install in rpi3,How to install opencv in rasberry pi 3b.,12/15/18,ant_bot
+,,,,,
+jppgoyiorcu17f,Week 12/9 - 12/15,      Hardware testing pdf error,"HiSo I was making the circuit for the hardware testing (Making circuit pdf) when I noticed that the pdf file has an error.the table says that pin 1 goes to A0 but in the diagram, it is shown as A4 and same for pin 5 where its written in the table to connect it to A4 but in the picture its connected to A0
+ 
+",12/15/18,ant_bot
+,,,,,
+jppcn5k7n487hh,Week 12/9 - 12/15,      RPi3 installation problem,"
+
+
+ 
+I am unable to understand the above steps.
+It is mentioned to insert RPi3 ip address in remote host but pls tell me how to find the ip addess of rpi3 and how to connect it with my laptop?
+Also i tried to connect it with ethernet cable to my router but it is not showing any ip address of rpi3!",12/15/18,ant_bot
+,,,,,
+jpodi16bp0l5lj,Week 12/9 - 12/15,      Shipment,"I have click the acknowledge button mistakenly, but i  haven't received shipment.
+What i do.....?Team ID: #2073",12/15/18,ant_bot
+,,,,,
+jpnztvegpia538,Week 12/9 - 12/15,      Booting of Rasberry Pi,"After formatting the SD card , we followed all the steps as mentioned till first boot.
+For the first boot ,we connected HDMI of monitor to Ras pi .Then,we connected the mouse and keyboard to Ras PI and provided the power supple from power bank.
+We waited for 10  mins but we did not get the output or anything on monitor.
+What should we do next? What are the problems we are facing? ",12/14/18,ant_bot
+,,,,,
+jpmsjm7r3le5n3,Week 12/9 - 12/15,      Hardware Testing Task," Dear Teams,
+
+Greetings from e-Yantra!
+
+Hardware Testing folders are made available on the shipment page on portal from today morning (13/12/2018). Some of you have must have already received the kits. Others too will receive the kits soon. 
+
+All the teams must perform the hardware testing task available on portal after they acknowledge the shipment receiving and submit it on or before 19th December 2018. This is to ensure that hardware provided to you are functioning properly.  
+
+Any claims regarding improper hardware functioning will NOT be entertained from teams who do not submit hardware testing task and do not let us know about the improper hardware functioning through Piazza/email on or before 19th December 2018.",12/13/18,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jpf431k0uuu6sr,Week 12/2 - 12/8,      Participation Certificate,Participation cerificate will be provided to those who did not qualified Stage 1?,12-08-2018,ant_bot
+,,,,,
+jpczeqfx9wl4zj,Week 12/2 - 12/8,      Problem about Result,"Our result is not showing, whenever we are submitted the feedback form then again and again it is showing whenever we are refreshing",12-07-2018,ant_bot
+,,,,,
+jp5p99zhgct2mr,Week 11/25 - 12/1,      Not able to submit task 1.2,What happens if we don't able to submit aur tak 1.2 and we have submitted our task 1.1 on tim3,12-01-2018,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jp4x8o5xbhn6fi,Week 11/25 - 12/1,      extent of generalization of task 1.2 ant bot,"For task 1.2 in ant bot it is given that code will be tested with undisclosed images.So in this case what all inputs should my code take apart from image destination.Should my code aslo ask for specification of object 1 and object 2 color and shapes??
+ ",12-01-2018,ant_bot
+,,,,,
+jp4vujabnh6t7,Week 11/25 - 12/1,      COUNTING ARUCO AS SHAPES TOO !!!,"can anyone plz advice on how to not consider aruco marker into consideration while shape detection , MY shape and color detection is working absolutely fine, however the shape such a square and circle are also detected in the aruco and hence it is generating contours around it. 
+ 
+Plz tell , how to minimize this effects, REALLY NEED HELP",12-01-2018,ant_bot
+,,,,,
+jp4179yl1ap4bd,Week 11/25 - 12/1,      Results,When will the results of task 1 be released,11/30/18,thirsty_crow
+,,,,,
+jp3yre4pgh551v,Week 11/25 - 12/1,      Regarding submission of Task  1.2,"With regards,
+I want to say that in my college exams are going on, so our team is not focusing on task given, so please give us some time to submit task.",11/30/18,thirsty_crow
+,,,,,
+jp2y5myskv21fs,Week 11/25 - 12/1,      Regarding submission of task1.2,"My team Id is 7150.I had submitted my code on the portal at 11:59:38pm  and the deadline is 11:59pm.So it will  count as late submission or not?Because if it is late submission ,then we can work on it further.",11/30/18,ant_bot
+,,,,,
+jp2qso0ufa3d4,Week 11/25 - 12/1,      Stage 2 announcement,By when should we expect the announcement to the results of task 1 and about the team going ahead to stage2?,11/29/18,ant_bot
+,,,,,
+jp2i66fjbpg32q,Week 11/25 - 12/1,      Penalty Reduction for Task-1,"Dear Participants,
+ we have decided to reduce the penalty. The deadline has passed however, penalties starting from today.
+The penalties will be applied daily, starting from 00:00hrs of 29th November 2018. They will be as follows: [5%, 10%, 15%,] Submissions will be closed from 23:59hrs of 1st December 2018.Penalty for submitting 1 day late (till 23:59hrs, 29th Nov)= 5 % of Total Marks of Task 1.2  Penalty for submitting 2 days late (till 23:59hrs, 30th Nov)= 10 % of Total Marks of Task 1.2 Penalty for submitting 3 days late (till 23:59hrs, 1st Dec)= 15 % of Total Marks of Task 1.2
+ 
+Good luck in developing a solution!",11/29/18,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jp21rcyd3ql2db,Week 11/25 - 12/1,      Regarding Penalty of Ant Bot,"Dear Sir ,We(7150)  are working on antbot and we are really very close to solution,It will be done in today .Please reduce the penalty of ant bot.",11/29/18,ant_bot
+,,,,,
+jp1iey90au83kv,Week 11/25 - 12/1,      Task 1.2 : One Day Late Submission,Due to our semester practicles we get less amount of time for task 1.2. We are actually at verge of the completion of the project.. We need just one day extra.. So will it be ok to submit task 1.2 on 29-11-18.,11/29/18,ant_bot
+,,,,,
+jp1ffnvkk567kx,Week 11/25 - 12/1,      Nutty Squirrel: UPDATED PENALTY REDUCTION for Late Submission of Task 1.2,"Dear Participants, We have heard repeated requests for extension of the deadline for Task 1.2. The deadlines are fixed and can not be extended. Taking all of this into consideration, we have decided to reduce the penalty for late submissions of Task 1.2 of the theme Nutty Squirrel. The penalties will be applied daily, starting from 0000hrs of 29th November 2018. They will be as follows: [5%, 10%, 15%] Submissions will be closed from 0000hrs of 2nd December 2018.Good luck in developing a solution!Penalty for submitting 1 day late (till 2359hrs, 29th Nov)= 5 % of Total Marks of Task 1.2  Penalty for submitting 2 days late (till 2359hrs, 30th Nov)= 10 % of Total Marks of Task 1.2 Penalty for submitting 3 days late (till 2359hrs, 1st Dec)= 15 % of Total Marks of Task 1.2",11/28/18,nutty_squirrel
+,,,,,
+jp14let7o384e2,Week 11/25 - 12/1,      About the shape,"As you have mentionedcin the pdf file that the shape can be elliptical as well yet didnt said in the 3rd table to find out or detect ellipse insteex detecting circle was mentioned...
+The shapes given to us is not perfectly circular...they are kind of elliptical...therefore after the border we are applying through formula to the circles,there is remaining some uncovered spaces at the upper and lower parts of the circle...
+What should we do???",11/28/18,ant_bot
+,,,,,
+jp14bvhhkxo2tn,Week 11/25 - 12/1,      border overlap,"Team Id- 249In one of the images, when we add border to the required shape, the border of one shape is getting overlapped with the border of another shape ,as the distance between them is very less than required. So should we reduce the pixels of border or i.e. from 25 pixels to less 15 or 20 ,so that it can fit appropriately?",11/28/18,ant_bot
+,,,,,
+jp143mq7q8x4o6,Week 11/25 - 12/1,      do we have to take user input??,bcoz in the given version we are unable to take user input.,11/28/18,ant_bot
+,,,,,
+jp0ricd06v564e,Week 11/25 - 12/1,      Regarding Output Name Issue,"Respected Sir/Ma'm,
+     We have done with the task1.2. But by which name we have to save the output images.kindly replay fast because today is the last day for task1.2 submission.
+     Waiting for your reply
+ ",11/28/18,ant_bot
+,,,,,
+jp0or7r8xzh2y2,Week 11/25 - 12/1,      The given library is marking the angle of aruco wrong. Can we make changes in it ?,The rule says we can't modify more than one line in aruco API. But due to some discrepancy we need to change it a bit more . So can we do it?,11/28/18,ant_bot
+,,,,,
+jp0mmbzqqchw2,Week 11/25 - 12/1,"      for shape and color detection, we have to take a input from table 3 , right ??", ,11/28/18,ant_bot
+,,,,,
+jp0c0hy85yr16i,Week 11/25 - 12/1,      Task 1.2 csv file,"Do we have to generate the csv via python code, or write it ourselves?",11/28/18,ant_bot
+,,,,,
+jp01r3mhyqs44,Week 11/25 - 12/1,      Quarry related to image name for saving and to write name in csv,my question  is we by which name we have to save images and what image name we have to write in csv file,11/27/18,ant_bot
+,,,,,
+jp01ftpxls82q3,Week 11/25 - 12/1,      Regarding Color Detection,"What is the range of Red, Blue and Green that is to be considered for checking the image?",11/27/18,ant_bot
+,,,,,
+jp015h5wuak7a2,Week 11/25 - 12/1,      regarding csv file for task 1.2(antbot),"Respected mam, is it necessary to make columns and row(i.e. drawing those lines) in the output csv file or simply the alignment of those columns will do the work ?",11/27/18,ant_bot
+,,,,,
+jozsv4esnkrtg,Week 11/25 - 12/1,      Regarding input format,"What will the input format be?[And do we prompt user to enter input or not like in competitive coding] Because if there's an online judge we will need to modify our code accordingly. 
+ 
+Thanks",11/27/18,ant_bot
+,,,,,
+jozphx24wm55ma,Week 11/25 - 12/1,      How the ArUco output should be seen? : Task 1.2,"There are 5 images ..out of which two uses 4x4 and other two 5x5 and another 7x7 ...We can edit dictionary value only in  aruco_lib.py ... So how can we read all the 4 images together and detect aruco ID along with changing the aruco dict dynamically in aruco_lib.py for every new image ??
+ ",11/27/18,ant_bot
+,,,,,
+jozpd1yjz9z3h0,Week 11/25 - 12/1,      There are no test images with an ellipse. Would circle detection suffice?, ,11/27/18,ant_bot
+,,,,,
+jozjji7aaad50y,Week 11/25 - 12/1,      regarding image segementation,can we perform shape and color detection on image nd aruco marker detection ..without extracting the image ??,11/27/18,ant_bot
+,,,,,
+joziwohtfoh4f4,Week 11/25 - 12/1,      about the borders,"how to make border outside of a shape without interfering the inner portions of the shape?? 
+while we had done the job it was showing half of the width of the border inside the shape and half outside of the shape ......  ",11/27/18,ant_bot
+,,,,,
+jozhpype7do6uf,Week 11/25 - 12/1,      reference required,"sir plz , can you provide a reference to us regarding how to seprate one image from another and performing operations on it how to combine that image to original image simply i mean separation and combination of image  ",11/27/18,ant_bot
+,,,,,
+joz7207zm9452k,Week 11/25 - 12/1,      Unable to detect the Object Coordinates and its Color,We detected the aruco id successfully but facing problem during the detection of object shape and it's coordinates. Pls help us as soon as possible.,11/27/18,ant_bot
+,,,,,
+joz5dcsa3sn5o7,Week 11/25 - 12/1,      Task 1.2 in TC,Should the teapot change size when the marker moves closer ,11/27/18,thirsty_crow
+,,,,,
+joyn6n44u25735,Week 11/25 - 12/1,      Generic code of tasks given,"As each and every team will cretae a different level of generic code , some team may ask for 2 inputs or some teams may ask for 5 inputs , so how will the e yantra team know about how to execute the generic codes of different teams ",11/26/18,ant_bot
+,,,,,
+joxzfbw9fev7in,Week 11/25 - 12/1,      ArUco angle detection,I m getting the same angle for all the given images. So plz help me out of this!!,11/26/18,ant_bot
+,,,,,
+joxx44881774ih,Week 11/25 - 12/1,      Teapot not rendering on background frame," 
+Sir, when we remove draw_background () teapot with texture is appearing, but its not when we call draw_background (). Its simply fill the opengl window with texture. 
+Also we tried manipulating the tvec(0)(0)(2). But can't get the output. 
+Pls give us some hint in what way tvec can be manipulate to get required output.....
+Pls help us sir... ",11/26/18,thirsty_crow
+,,,,,
+joxww15qp8j7ma,Week 11/25 - 12/1,      Parallax issue in teapot,I m able to align the teapot and it work fine but there is parallax issue and teapot doesn't seem to stick on the marker. Any suggestion would be very helpful,11/26/18,thirsty_crow
+,,,,,
+joxwf9dgz08485,Week 11/25 - 12/1,      Regarding height of cube and cylinder,Is there any problem if we change height of the cylinder and cube? ,11/26/18,thirsty_crow
+,,,,,
+joxv0b03rwl200,Week 11/25 - 12/1,      Cube height is messed up,If the height is made to be m then we get a cuboid. Is it coming like this because of a camera problem or is it supposed to be like this?,11/26/18,thirsty_crow
+,,,,,
+joxs4ig0gmr2ym,Week 11/25 - 12/1,      Value error,"Hello, i am a bit late in doing the task as we had final labs. I would like help in the fact that in the code give I am getting an error value in drawing axis saying the truth value of an array with more than one element is ambiguous. Any suggestions?",11/26/18,thirsty_crow
+,,,,,
+joxqrp9o1zr6vc,Week 11/25 - 12/1,      Generic code for all the images ???,"my question might sound simple this but I have this doubt that is - DO I HAVE TO CREATE CREATE A GENERIC CODE FOR ALL THE IMAGES FOR THEIR SHAPE AND COLOR DETECTION ????
+ 
+OR DO I HAVE TO SUBMIT SEPARATE CODES FOR ALL IMAGES COZ IN EACH IMAGE WE HAVE TO DETECT DIFFERENT IMAGE ??????",11/26/18,ant_bot
+,,,,,
+joxpx99pxu73pt,Week 11/25 - 12/1,      Task 1.2,Do we need to keep the background in OpenGL frame same as we see in our webcam or we need to flip it? ,11/26/18,thirsty_crow
+,,,,,
+joxpvbyid1b2hk,Week 11/25 - 12/1,      Task1. 2: Aruco Angle Detection,How to detect the angle in aruco image? No resources for this is given. ,11/26/18,ant_bot
+,,,,,
+joxapaots8b62n,Week 11/25 - 12/1,      error 1281,"sir i wrote the code shown below.
+
+i am getting the following errors.
+
+how can i get it corrected.
+please help.",11/26/18,thirsty_crow
+,,,,,
+jox04i3lyd6gq,Week 11/25 - 12/1,      Shape detection,When I run the code once for image 1 and image 2 it shows no error but when I run the same code for image 3 4 5it shows this error I'm unable to understand the reason,11/25/18,ant_bot
+,,,,,
+jowt8cn4bw512f,Week 11/25 - 12/1,      Is User Input required?,"Do we need to take input from user because you have said earlier that you will test the program with another images that is totally confidential . If not then how will you get the dictionary , colour and shape ?",11/25/18,ant_bot
+,,,,,
+jowqtcnuj5x671,Week 11/25 - 12/1,      Doubt regarding the contours,While obtaining the contours of the figures present should the final image have rounded edges or pointed(sharp)?,11/25/18,ant_bot
+,,,,,
+jowqe1hqdjq2bi,Week 11/25 - 12/1,      Regrading csv file,"In the task1.2 we have to a generate the csv file
+so we need to generate the csv for undisclosed  images   ",11/25/18,ant_bot
+,,,,,
+jowmgz8kw55ju,Week 11/25 - 12/1,      Outline colour for Orange and yellow objects in task 1.2,"Hello Sir,
+ 
+In task 1.2, it says,
+ 
+
+ 
+But the outline colour for orange and yellow objects are not mentioned here,
+ 
+
+ 
+So what are we to do for these colour object.",11/25/18,ant_bot
+,,,,,
+jowdoaiyc1i6g7,Week 11/25 - 12/1,      Camera calibration file,"We are getting the required output for a different size of teapot ( not with that already mentioned in code) and for the Camera.npz file obtained in task0. The teapot is a bit off-centered with the System. npz file. So is it an issue? If yes then please give us some suggestion and guidance. And for the video submission which output should we record, the one with System.npz or with Camera.npz?",11/25/18,"ant_bot,thirsty_crow"
+,,,,,
+jovoetst5443v,Week 11/18 - 11/24,      Regarding detection of colours in undisclosed images,Should our code include the detection of orange colour for the undisclosed images ?,11/24/18,ant_bot
+,,,,,
+jovo7qmb7fbwp,Week 11/18 - 11/24,      name of output image,"By which name i save the output image?
+marked image",11/24/18,ant_bot
+,,,,,
+jovi6qyzfyv1ry,Week 11/18 - 11/24,      Pls do answer,We're getting teapot when we comment background function but not getting teapot if we uncomment...pls do rply...,11/24/18,thirsty_crow
+,,,,,
+jovfdlp9b704b0,Week 11/18 - 11/24,      Type of border to be made on the shape,"Hello
+I had a doubt regarding the types of border to be made, can the corners be rounded edge or do they have to be sharp at the corner  like another similar shape below it.
+Thanks",11/24/18,ant_bot
+,,,,,
+jov8k1nk1g41cx,Week 11/18 - 11/24,      Please provide a clear explanation regarding generalisation,"Clearly, lots of us are facing problems with respect to writing ""generic"" code because it has not been clearly established what is meant by ""generic"".
+ 
+Query 1:
+ 
+There are 5 different files. Each file requires us to identify different objects with different properties and use different dictionaries. We can do that because we know what the objects are that need to be identified in each file.
+ 
+As far as testing the code against undisclosed test-cases goes, how would I know which objects are to be detected and which dictionary is to be used to label the ArUco marker in those test-cases?
+ 
+(1) Does the user give input through the console? If yes, then what will the input format be?
+(2) If no, then will the judge change the relevant parts of the code to indicate which objects are to be detected and which dictionary is to be used?
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Query 2:
+ 
+The task description document, ""Task1.2.pdf"" states:
+ 
+""The sequence of colour objects associated with the particular ArUco marker....""
+ 
+Please state clearly what is meant by associating objects with AruCo markers.
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+In most threads, it is said to make the code ""as generic as possible"". Please tell us how generic you want it to be and we will make it; the task description documents are not clear enough.",11/24/18,ant_bot
+,,,,,
+jov1ugo43ch40,Week 11/18 - 11/24,      Ant bot task 1.2,"is there any requirements we should keep in mind while adding the id and angle of the Aruco marker in the images? In the task description it is simply mentioned that we should find the id and angle. no instruction regarding how it should be displayed on the image has been given. Can we proceed assuming that these info can be displayed using text of any colour, size and at any point in the marker?
+ 
+Also, will there be an issue if the corner points of the aruco marker are marked?
+ 
+#teamid_4065",11/24/18,ant_bot
+,,,,,
+jov12rwfwqg42c,Week 11/18 - 11/24,      Regarding generic code,"Can we permitted to take the input from user (in generic code to be submitted in task 1.2) like entering the object to be detected and the colour of the object to be detected of the respective images?????
+please help us!!!!",11/24/18,ant_bot
+,,,,,
+jouyhysysoj3do,Week 11/18 - 11/24,      stage-2 selection and Kit arrival,"(1)When will the result for stage-2 be announced? (2)Suppose team x gets selected for stage-2, then roughly how many days will it take for kit to arrive in the college(after 28th November)?",11/24/18,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+joujk7tvjtl4b7,Week 11/18 - 11/24,      shape border,do we have to give the border separately or we can do it while detecting contours,11/24/18,ant_bot
+,,,,,
+joui70d266i4w0,Week 11/18 - 11/24,      issue with opengl screen,"sir, i wrote the code shown below.
+no error still OpenGL output screen is black.
+
+ 
+ 
+ 
+ 
+
+ 
+please help",11/24/18,thirsty_crow
+,,,,,
+jouamaf56jq3h8,Week 11/18 - 11/24,      task 1.2,Can i add object type and object color as parameters? How are we supposed to write a generic code that works well for undisclosed images without taking the specific object and color of the object to be detected as inputs?,11/23/18,ant_bot
+,,,,,
+joua24stk2c4xy,Week 11/18 - 11/24,      The code file provided to us in Task 1.2(ANT BOT) is showing indentation error on running.,We have tried to remove extra spaces but its still not working. We would be obliged if you could look into the matter.,11/23/18,ant_bot
+,,,,,
+jotwzcjax7f2ww,Week 11/18 - 11/24,      Date extension,"We are requesting the date extension for task 1.2 because we have semester exams this week, so we do not have time to complete the task 1.2. We need at least 1 week time to complete the task 1.2. I have attached college timetables in this mail
+
+I am from electronics branch .
+",11/23/18,ant_bot
+,,,,,
+jotwr8oa8yg5ts,Week 11/18 - 11/24,      SyntaxError,"While compiling the code I get syntax error in this line : 
+img3 = mark_Aruco(img2,det_aruco_list)",11/23/18,ant_bot
+,,,,,
+jotubtlc1cj5h1,Week 11/18 - 11/24,      Need help with the aruco code with the following o/p.,"
+After the execution of aruco detect fuction in TASK 1.2, we got the following o/p. We are unable to understand what does the [] and 0 mean. Can anyone pls explain",11/23/18,ant_bot
+,,,,,
+jott0qxz50q3ya,Week 11/18 - 11/24,      Generic code Antbot task1.2,"In Antbot task 1.2 ,as they have asked generic code
+How should we format it?
+for eg:
+should the program ask the user to enter the path of the image? 
+or how ?
+ 
+i didn't clearly understand the reference of generic code in this particular task1.2. ",11/23/18,ant_bot
+,,,,,
+jotknjai8bd3k0,Week 11/18 - 11/24,      Sir can we get some  guidence tutorial on ..on the theme nutty squirrel,Sir.How to deal with dynamic obstacles and ..how to implement our algorithms..,11/23/18,nutty_squirrel
+,,,,,
+jotkm68z8mt7oq,Week 11/18 - 11/24,      .csv file create,"How to create .csv file ,using program or after writing in excel  convert him into .csv file???",11/23/18,ant_bot
+,,,,,
+jotihpy81281q3,Week 11/18 - 11/24,      about task 1.2,"Can we edit  multiple line of aruco_lib.py ??
+because the out put is different",11/23/18,ant_bot
+,,,,,
+jot2fqmzeww7dj,Week 11/18 - 11/24,      Regarding border on shapes in task1.2 Tem ID 7359,Since the border over the shape is of 25 in width. Is this is symmetric with the boundary of the surface or it extends only on one side.Whether it can overlap with the shape or not.,11/23/18,ant_bot
+,,,,,
+jot0gqdaomb2w6,Week 11/18 - 11/24,      #2187,1.Is it necessary to give complete path for reading image mean that do we have to read the images from Images folder only or from code folder it can also be read?,11/23/18,ant_bot
+,,,,,
+josxc687z5l4xt,Week 11/18 - 11/24,      Quarry related to aruco_lib.py file,I want to ask that it is necessary to import the aruco_lib file in the test1.2 or i need to write code in task1.2 py file,11/22/18,ant_bot
+,,,,,
+jorf4o1dehd56e,Week 11/18 - 11/24,      regarding task1.2(ant bot),Respected instructor.....Can we import any other modules in our code for resizing the image ?,11/21/18,ant_bot
+,,,,,
+joreitrcpyq52o,Week 11/18 - 11/24,      Removal of team members,we have one query regarding the removal policy of team members. As I am the team leader of this team and observed that two of our team members are not working. Their contribution is negligible in any of the task. So can I remove the name of that members ?,11/21/18,ant_bot
+,,,,,
+jordzobkjrm13i,Week 11/18 - 11/24,      Writing code," The combination of colour and shape of objects to be detected as specified in task description of "" Task 1.2 "" , should this be hard-coded or it be obtained from user at runtime",11/21/18,ant_bot
+,,,,,
+jordma6luhg1gw,Week 11/18 - 11/24,      query in ant-bot,"We have one query regarding our task 1.2 in ant-bot. Our query is that, Do we need to hard code table3 (image name,color or object and shape of object to be detected )  in the program ?",11/21/18,ant_bot
+,,,,,
+joqzm0gj7832jp,Week 11/18 - 11/24,      angle detection of ArUco marker,How to detect  angle of ArUco marker using camera or not??,11/21/18,ant_bot
+,,,,,
+joqrjk305t43i9,Week 11/18 - 11/24,      Date extension,"We are requesting the date extension for task 1.2 because we have semester exams this week, so we do not have time to complete the task 1.2. We need at least 1 week time to complete the task 1.2. I have attached college timetables in this mail
+
+I am from electronics branch .
+",11/21/18,ant_bot
+,,,,,
+joqqndv1ums4zt,Week 11/18 - 11/24,      Provide reading materials for task1.2,"In task 1.2, we are just given the same reading material as task 1.1 and there's nothing over the internet regarding aruco. I request instructors to provide some resource or make available some reading material so that students don't have to waste their time just searching for aruco on the internet",11/21/18,ant_bot
+,,,,,
+joqoqz9kakf5jc,Week 11/18 - 11/24,      What are x and y in task 1.2?,"In Task1.2.py, we are given x and y to use but it is not clear what they are used for. Please tell what are x and y used for? Do we have to hardcode their values or do we have to find their values using code?",11/21/18,ant_bot
+,,,,,
+joq7e9r9p0p16k,Week 11/18 - 11/24,      Please Help ME! to draw the border on a particular object in an image in ANT BOT Task 1.2,What is the logic behind to draw the border of a particular object in an image,11/21/18,ant_bot
+,,,,,
+jopqljjqemhpb,Week 11/18 - 11/24,      Whoops looks like something went wrong,"Hi all.
+ 
+It seems that you have released a new tab ""Task Results"" on our portal. However, when trying to access that, we get the following error ""Whoops, looks like something went wrong"" This also occurs when we go to task 1 tab too.
+ 
+Is this something wrong on our side?
+ 
+Thank you.",11/20/18,ant_bot
+,,,,,
+jop63hn5wk0608,Week 11/18 - 11/24,      can we include software used in the code in submission folder?, ,11/20/18,ant_bot
+,,,,,
+jooofh0q59p2ul,Week 11/18 - 11/24,      Code for triggering color detection on ID detected,What does 'Code for  triggering color detection on ID detected' exactly means in ant bot task 1.2,11/20/18,ant_bot
+,,,,,
+jooieos9rez5qp,Week 11/18 - 11/24,      Syntax Error while writing in csv,"Can we change the naming convention of (x,y) to (x-y) ? Because while writing to csv it is taking comma as a coloumn switcher.",11/19/18,ant_bot
+,,,,,
+joo0qwa1zog2sx,Week 11/18 - 11/24,      adding function,"Respected sir/madam
+                    can we make more than 1 functions in colour_detect function",11/19/18,ant_bot
+,,,,,
+jon7a9ok5rphu,Week 11/18 - 11/24,      GlutSolidTeapot(0.5),"After binding my image to texture, pushing and loading the view matrix I wrote GlutSolidTeapot(0.5) however theres no output coming. however when i use the same logic and instead of GlutSolidTeapot I call the background function im able to get an output in the form of the texture.....
+Is there an error in the way im understanding and treating glutsolidteapot as i cant find any other error to not get an output???",11/18/18,thirsty_crow
+,,,,,
+jon17mvzhv2332,Week 11/18 - 11/24,      Regarding Code of Task 1.2,"Is it compulsory to insert our code in the functions given only or can we change the function(eg mix two function in one). At the end you want teapot on an AR marker right?
+ 
+So can we change the code?",11/18/18,thirsty_crow
+,,,,,
+jomy7dwc54z53i,Week 11/18 - 11/24,      find ArUco angle,"How to find the ArUco angle ??
+please help....",11/18/18,ant_bot
+,,,,,
+jomxcfho6ogmq,Week 11/18 - 11/24,      Shape identification in 1.2,"What decides which shapes are to be identified in a given input image
+i dont see any connection between the marker id and the shape of object to be identified
+ 
+ ",11/18/18,ant_bot
+,,,,,
+jomwqkcoqd1r1,Week 11/18 - 11/24,      Angles of markers task 1.2,"When I run my code it displays that all test images given have their aruco markers at 90degrees
+How can i be sure if this is true
+In other words are all the test images provided by eYRC really at 90degrees??",11/18/18,ant_bot
+,,,,,
+jomt13eld3c5xz,Week 11/18 - 11/24,"      Task1.2, team_id 3703","img1.jpg img2.png
+We are stucked at this point. Please help us and give us some suggestions.
+Thank you.",11/18/18,thirsty_crow
+,,,,,
+jommy1hrvhi7f5,Week 11/18 - 11/24,      differentiating objects,How can I differentiate between 2 objects of different shape but same colour?,11/18/18,ant_bot
+,,,,,
+jomk0xgshf7qz,Week 11/18 - 11/24,      TC #TASK 1.2 COMPLETION,Could any team complete Task1.2 successfully? If yes then can you provide the YouTube link here?,11/18/18,thirsty_crow
+,,,,,
+jolvywzzj541b8,Week 11/18 - 11/24,      extra library,"can i use any diff library(ex stdio,iostream) in sandbox??",11/18/18,nutty_squirrel
+,,,,,
+jolqpgfzdag1nj,Week 11/11 - 11/17,      V rep is not following the command written in visual studio, ,11/17/18,nutty_squirrel
+,,,,,
+joliowzdmis3kv,Week 11/11 - 11/17,      Task_Description.,"Table 3:- You have given Green Circle, Red Square.
+While explaining, you took, Red Square, Blue Triangle.
+I am not getting the explanation.",11/17/18,ant_bot
+,,,,,
+jolh0lrtzad6z0,Week 11/11 - 11/17,      about ArUco,Is there any problem after converting an ArUco image from grey to RGB and then write the ArUco id in Red and the line above it in blue ??,11/17/18,ant_bot
+,,,,,
+jolafemlf4n2yv,Week 11/11 - 11/17,      Regarding Reading Material of Task-1.2,"Respected Sir/Ma'am,
+our theme is Ant Boat but we are not able to find any type of reading material related to task1.2 on e-yantra or internet or anywhere else. So Please can you provide a link where we found such kind of material.
+ 
+thank you. 
+ ",11/17/18,ant_bot
+,,,,,
+jol16puik1c8,Week 11/11 - 11/17,      Texture color changed,"When I applied texture on the teapot, the color of texture is getting changed. someone please help.",11/17/18,thirsty_crow
+,,,,,
+jokkoqiadg4bs,Week 11/11 - 11/17,      Regarding csv file,Can we import csv library for editing the csv file ?Should the code overwrite a existing csv file again and again for different images or should it make a new file for each image and contain output of that particular image only ?,11/17/18,ant_bot
+,,,,,
+joke5ohrge07g1,Week 11/11 - 11/17,      ArUco_Marker,"How 1000 combinations of 4X4 arUco markers are possible if there are 2 data columns,(i.e 8 data bits and 2^8 combinations) in 4X4_1000 dictionary ?",11/17/18,ant_bot
+,,,,,
+jok1g5btdtz2ez,Week 11/11 - 11/17,      Regarding csv file,Can we import os library in the code ?,11/16/18,ant_bot
+,,,,,
+jok00fiakaf3qh,Week 11/11 - 11/17,      Regarding aruco_lib,Sir/MaamAs we have to hardcode the type of dictionary of aruco marker to he detected. Their would be three library files that we have to make and three files of code no ?one library and one code file for 4*4 and other set for 5*5 and one set for 7*7 dictionary aruco,11/16/18,ant_bot
+,,,,,
+jojvaqh12g25d8,Week 11/11 - 11/17,      Unable to add colour to text,"
+U can see that in cv2.putText(....) I have declared the Color green with (0,0,255) as the sequence BGR. But it is not showing green. It is only showing white all the time or black if all the values are zeroes. 
+Please help me out.",11/16/18,ant_bot
+,,,,,
+jojsr0se4fr741,Week 11/11 - 11/17,      pixel format not supported by opencv,"
+how to resolve this?",11/16/18,ant_bot
+,,,,,
+jojqbh3jjav26v,Week 11/11 - 11/17,      Queries regarding generalisation of Task1.2,"Hi all!
+ 
+We are expected to generalize the code so that it works for all the undisclosed test cases you will provide. However, for a better generalization, can we add one more argument to the color_detect() function? As in, there is by default in your skeletal code, image path. If you can permit one more argument, it will save us some code lines.
+ 
+And we have written comments in the main() function as to how to give inputs prior to running our code. Can you please consider reading them?
+ 
+Thank you.",11/16/18,ant_bot
+,,,,,
+jojlxogiz7k38o,Week 11/11 - 11/17,      Regarding Task 1.2,"Regarding ArUco marker on images,Will the marker be always on the upper left hand corner, as in the given images?
+Since we are not allowed to make changes in the given code, can we write additional lines of code between the skeletal code lines to improve readability of code?",11/16/18,ant_bot
+,,,,,
+jojeyzzcxms620,Week 11/11 - 11/17,      Please provide help in using the velocity function as it is not working in our case.,"Velocity(255,255) is the same as velocity(127,127) ans when i print the value of left motor speed or right motor speed it shows some garbage values.
+ 
+Remark :- changing laptops is not helping as same problem resides
+ 
+This problem is kind of urgent as previous question did not get proper reply.",11/16/18,nutty_squirrel
+,,,,,
+joiua80b4afvk,Week 11/11 - 11/17,      about libraries in aruco_lib.py,"as mentioned above subject, the file aruco_lib.py does not contain function for color detection so i want to clarify that are you going to provide it or not similar to other functions ",11/15/18,ant_bot
+,,,,,
+join0h13b2q7lx,Week 11/11 - 11/17,      ANT BOT Task 1.2 Color And Object Detection,"Respected sir/Mam,In the Task1.2. Pdf objective is identify the color and shape of the object in the give sequence of ID but later in the table the color and shape of object is listed according to the images. Jpg. The data is NOT provided according to the ArUco ID.The code we make can't work according to the ID's. So how can we make code generic as code will be tested on undisclosed sets of images.",11/15/18,ant_bot
+,,,,,
+joimun1p3uv7o3,Week 11/11 - 11/17,      simulation does not execute correctly when we execute second time,this code runs perfectly on vrep but when i executed it second time the ebot start dancing at a position round and round.,11/15/18,nutty_squirrel
+,,,,,
+joi4zgg9iow5da,Week 11/11 - 11/17,      About arguments in function of aruco_lib.py,"Can we have more than 2 arguments in the given function detect_Aruco(img)
+ 
+ 
+eg. detect_Aruco(img,no)
+ 
+ ",11/15/18,ant_bot
+,,,,,
+johmh2wgcp76vi,Week 11/11 - 11/17,      Regarding detection of shapes,"Sir/MaamIn task 1.2, do we have to implement the detection of yellow color and ellipse in the code ? Because it was mentioned it will be run on an undisclosed set of images.",11/15/18,ant_bot
+,,,,,
+johm6dgd6q9668,Week 11/11 - 11/17,      Errors in skeletal code,"Greetings, mentors and fellow learners!
+I wish to enquire regarding Task1#abset4 zip file.We are experiencing issues with the skeletal code of file `Set4/Task/Task1.2/Code/Task1.2.py` :-
+#1. improper indentation from Line 74 to 82 [inclusive]
+#2. Line 71: NameError: name 'x' is not defined.How should we go around this situation?
+ 
+Also, we can repair the indentation, if instructed to; but we would need some help with issue #2",11/15/18,ant_bot
+,,,,,
+johhfepebzs1ji,Week 11/11 - 11/17,      can we change the already written body of the functions defined in the task?, ,11/14/18,ant_bot
+,,,,,
+johe67hivj1bd,Week 11/11 - 11/17,      Text in task 1.1,"in task 1.1 we gotta make the text red... Is there any particular font size? And the text is not printed in red text even I've set the bgr color code in puttext as 0,0,255",11/14/18,ant_bot
+,,,,,
+johcn1nm1k41l8,Week 11/11 - 11/17,      ant_bot_task1.2,in task 1.2 we take the five images from the image floder..and we save the output images in another floder...in submisson floder we put these 3 three floders 1.images(input images floder) 2.code 3.output images floder..if not what is the the format.,11/14/18,ant_bot
+,,,,,
+johahn7th521aa,Week 11/11 - 11/17,      in what format do we have to save image jpg or jpeg ??, ,11/14/18,ant_bot
+,,,,,
+joh91yitd7o5bx,Week 11/11 - 11/17,      Problem in task 1.2, ,11/14/18,ant_bot
+,,,,,
+joh7z7op7xn13j,Week 11/11 - 11/17,      The bot is not functioning as it is doing in the demo vedio that was uploaded yesterday.,"Bot is not functioning as it was doing in the demo vedio that was uploaded yesterday. Infact it is doing nothing it remains still. This is the main problem we are having. For one instant the the result of code is something and some time the result of same cide is something else, so please see it fast as we are already very late. This is our main problem.",11/14/18,nutty_squirrel
+,,,,,
+joh6ze2b3lv6ub,Week 11/11 - 11/17,      #2187_Task1.2,"I have been provided three colours to detect in image.Which outline to give to each colour is to given only for 3 colours.
+But in the document that is provided have 5 colours mentioned
+In order to generalise it,we would need all 5 colors outline to be given
+or we have to generalise only for that 3 colours?",11/14/18,ant_bot
+,,,,,
+joh5yajc1lj28r,Week 11/11 - 11/17,      Border around the marker,Do we need to add the black border around the generated marker or just the white border has to be of 25 pixels.?,11/14/18,ant_bot
+,,,,,
+joh5mbb5dyqu5,Week 11/11 - 11/17,      Antbot:saving Image Query,On executing the code.It saves the images of aruco markers in the code folder.. Is it ok? ,11/14/18,ant_bot
+,,,,,
+jogvo5nhspm4tt,Week 11/11 - 11/17,      Regarding documentation of code,How do we document our code.Should we add comment in it or make a another file regarding that.,11/14/18,ant_bot
+,,,,,
+jogvgof3wuq3kb,Week 11/11 - 11/17,      Antbot task 1.2 regarding angle,"Everything is working almost Fyn ..but for all 5 image  I am getting 90 degree as an aruco angle ..is that answer correct?
+What is tht angle indicate ?..and what is the x ,y value in it ??? ",11/14/18,ant_bot
+,,,,,
+jogv57texq925j,Week 11/11 - 11/17,      reagrding functions in ant bot,can i define more function to complete the task in ant bot,11/14/18,ant_bot
+,,,,,
+jogtfs2nvph37j,Week 11/11 - 11/17,      Generating images And folder,"On running the code once,Four ArUco Markers are generated at a time in a different different windows Is it right?
+4 Images has to be saved in a Images folder And this code in a code named folder...?",11/14/18,ant_bot
+,,,,,
+jogps94mvjdyc,Week 11/11 - 11/17,      Writing code for problem statement,Should the code output one marker at a time or output all the four specified marker at time,11/14/18,ant_bot
+,,,,,
+jogou8ggahh159,Week 11/11 - 11/17,      Antbot: generated image queries,"sir/mam,
+1.the image that we have generated is without black margin around the whole image. As shown in the example pdf there is a black margin all around the image.
+2.the 25pxl of white border is to be created on 400X400 pxl aruco image or the whole aruco markers should be of 400X400px plus 25px border all around the 400X400 px.",11/14/18,ant_bot
+,,,,,
+jogo7d774mh724,Week 11/11 - 11/17,      ant_bot,for submission of task 1.2 can I rename input image folder in code file? . because output images have to store in Images folder,11/14/18,ant_bot
+,,,,,
+jogm9wxyybk5ip,Week 11/11 - 11/17,      Is it mandatory to use the given Python IDLE version or can we use the other one?,Your answer to the same question i.e.@36 is not accessible.So plz post ur answer here.,11/14/18,ant_bot
+,,,,,
+jog3t6ktkhr2xq,Week 11/11 - 11/17,      regarding  n and c values," 
+Do we have to take n and c as a input or not ",11/14/18,ant_bot
+,,,,,
+jog2uptiaku6th,Week 11/11 - 11/17,      T1.2 ant bot ... Aruco_lib.py file,In task 1.2 and notDo we have to import aruco_lib.py file or can we write a single code  without the file. And if so are we required to also add the aruco_lib.py file during submission .Team #2098,11/14/18,ant_bot
+,,,,,
+jog22hmng2p3j,Week 11/11 - 11/17,      Task 1.2 antbot .. regarding the number of parameters,"Can we add one more parameter to.   aruco_detect( ) function ....As per ur code it is having only one parameter ..can I change it to aruco_detect ( x , y) ",11/13/18,ant_bot
+,,,,,
+jog1jfg52to6rn,Week 11/11 - 11/17,      Do we need to add comments in our code,"Are comments in the code , required ?",11/13/18,ant_bot
+,,,,,
+jog0w4u1ap43hy,Week 11/11 - 11/17,      How many codes to save in Code file?,"Sir, I have created code.It will generate all images as per changing n,C,id_aruco,and 400(num_pixes)...now my Doubt is whether to submit code for ---4 different {n, c, id} values...or just logic with specified (n, C) and (id_aruco , num_pixels)....pplz clariify ",11/13/18,ant_bot
+,,,,,
+jog0r7tq73n6cx,Week 11/11 - 11/17,      Regarding use of Decision making statements,"can we use switch case or if else statement for implementing different dictionaries of aruco so as to generalise the code.
+We are planning to use switch case so that it will become more simpler,but can we use it?",11/13/18,ant_bot
+,,,,,
+jog0doxh5bi6cj,Week 11/11 - 11/17,      aruco_lib.py not working,"Dear sir/ madam,
+ 
+In task1.2.py, we are required to make a change in the aruco_lib.py i.e., which dictionary to read. Whether it is a 4X4_100 or 5X5_1000 etc, depends on the Image1.jpg or Image4.jpg and so on.
+ 
+For the cases 4X4_100, the outputs of image is working perfect. However, when i change the same 4X4_100 to 5X5_1000, i m getting an output as follows:
+ 
+
+ 
+For some reason the code you provided is not able to read 5X5_1000 dictionary. How should i solve this? Please help
+ 
+Is it necessary to use aruco_lib.py? The reason why i'm asking this is, for the test code that we made, we used the openCV aruco library and not the one you have provided. And that test code is working fine for all the dictionaries.
+ 
+Thank You.",11/13/18,ant_bot
+,,,,,
+jofza0urjh6jy,Week 11/11 - 11/17,      Doubt regarding TASK 1.1 ( Ant Bot Theme),"Will the testing of the code be done for a specified aruco_id or should we give any provision to input the id , combination and the grid value?",11/13/18,ant_bot
+,,,,,
+jofwfgxfw6r54t,Week 11/11 - 11/17,      Code submission,what we needed in code folder,11/13/18,ant_bot
+,,,,,
+jofvnk5x3tr2l2,Week 11/11 - 11/17,      Problems in task 1.2,"In task 1.2, since we can only change the dictionary in ArUco_Lib.py, how are we supposed to detect all the aruco markers in different images of different dictionaries in a single run..! Please guide.",11/13/18,ant_bot
+,,,,,
+joftfhmddyo1mz,Week 11/11 - 11/17,      To save the algorithm,Do we need to write algorithm on notepad seperately,11/13/18,ant_bot
+,,,,,
+jofszm01u0b5if,Week 11/11 - 11/17,"      Doubt regarding the task 1.1.Can we edit the ""Task1.1py"" file  ?","We have made the code to generate a required a image .
+But our doubt is that should we use only the two OpenCv and python API mentioned and nothing else ?
+ 
+ ",11/13/18,ant_bot
+,,,,,
+jofr95cb9pn65o,Week 11/11 - 11/17,      can it be done as I have to generalise it,"
+
+These are three lines of code in my solution...
+To generalize it I have just removed parameters from aruco.Dictionary_get() and passed the same thing through a variable
+ 
+Will this will do...
+Would my team be disqualified for this??
+Please answer it fast",11/13/18,ant_bot
+,,,,,
+joflzrq1ip36xx,Week 11/11 - 11/17,      Border,Can we use Image library to draw border of ArUco marker,11/13/18,ant_bot
+,,,,,
+jofku3fxvf16v7,Week 11/11 - 11/17,      Related to Code of Task 1.1,"Can we use prompts in the code for entering values of n, C, id_aruco and aruco_gen??
+Can we give options (as prompt) to continue to continue to generate aruco code or to exit from the loop???",11/13/18,ant_bot
+,,,,,
+jofgcpmxpbx570,Week 11/11 - 11/17,      Regarding task1.1 Subbmision,"Respected Sir/Ma'm,
+    we have a task to create a four images as per the instruction given in task1.1. we have completed the same but now we are confused that. "" we have submit the 4 images with 4 different prog. code OR a single prog. code file ?"".
+ ",11/13/18,ant_bot
+,,,,,
+jofg4qrwae31pj,Week 11/11 - 11/17,      Clarity regarding aruco detection in task 1.2 of ant bot,"Hi all.
+ 
+In task1.2.pdf that was provided in the ""Task description"" folder for ant bot, i had a query regarding the aruco marker detection.
+In page 2, under the ""Problem description"" heading, there is a sentence that reads out as follows:
+ 
+""The team is expected to detect the ID and angle of the ArUco marker using these designatedBit size and combination dictionaries of the ArUco marker.""
+ 
+What do you mean by the angle of Aruco marker!?
+ 
+In the sample output.jpg that is given on page 4 of the same document, the aruco marker has the following information printed in blue text. Here it is.
+ 
+
+What do they mean!!? The other images have a tuple of points which i have understood as the centroid of the image. But in this case, it is highly confusing. Is this related to angle of aruco marker of some sort that my puny brain isnt able to understand?
+ 
+In the instructions it is told that we have to import the x,y coordinates from the color_detect() function to a .csv file.
+Should we also print it on the image like the way you have told in sample_ouptut.jpg in the same document, or just identifying the aruco ID && drawing a 25 pixel border around the image suffices?
+ 
+Thank you.",11/13/18,ant_bot
+,,,,,
+jofek9087qa43b,Week 11/11 - 11/17,      While I try to build the program an error is displayed as shown in the image...,,11/13/18,nutty_squirrel
+,,,,,
+jofdcquov5e66h,Week 11/11 - 11/17,      Error While generating Images.,"Q.1
+cv2.error: OpenCV(3.4.2) C:\projects\opencv-python\opencv_contrib\modules\aruco\src\dictionary.cpp:169: error: (-215:Assertion failed) id < bytesList.rows in function 'cv::aruco::Dictionary::drawMarker'
+ 
+I got above error while saving images for IDs 65 and 217.
+For IDs 7 and 48 the code worked fine.
+(Is this a internal error, or do I need to Work upon my Implementation more)
+ 
+Q.2
+Also I have to generate 2 combination for same directory, so for distinct directory I followed ArUco_n.jpg convention.
+But I have to save 2 images for same directory, what about that, how to take care about it.
+ 
+Thank you in Advance.
+I made this post private
+ ",11/13/18,ant_bot
+,,,,,
+jofb19ln1tt7d0,Week 11/11 - 11/17,      Antbot: Additional Argument,"Is it valid to pass one more argument in aruco_gen i.e n.  and call that function 4 times in __main__ in order to generate 4 different images.
+for example : like this:
+aruco_gen(id_aruco, num_pixels, n) ",11/13/18,ant_bot
+,,,,,
+jof9xhcilvb19b,Week 11/11 - 11/17,      resolution,"Respected sir/mam,
+in aruco_gen() one argument is num_pixels, is it the resolution of an image?
+if yes, then in pdf there is one note that Keep the image resolution of the ArUco marker: 400x400 pixels.
+so this means that value of num_pixels is 400 and static. am i going in correct way?
+Thanks.",11/13/18,ant_bot
+,,,,,
+jof9uk1yt497ox,Week 11/11 - 11/17,      i have submitted the correct documents ...but it is showing that it is rejected,"it is showing that i have uploaded NOC track 2 but i have uploaded NOC track 1....i have rechecked it many times.....what is the mistake or error i am not able to understand...so plz tell me a solution to this 
+eyantra1.zip
+ 
+i need a fast solution please",11/13/18,ant_bot
+,,,,,
+jof5px07lkc340,Week 11/11 - 11/17,      Image names.,"You mention for particular image ID we must generate 4 images of ArUcoId_n.jpg images. Where n is between 1 to 4.
+We need to generate 4 images of Given ID, given in Task 1.1, what naming convention we must follow for them, the one which you mentioned on forum or the one in the pdf..(For the given Four images the we are uploading exclusively)",11/13/18,ant_bot
+,,,,,
+jof39dn04bt4vz,Week 11/11 - 11/17,      How to conclude whether you've made the square right or not?,"Does the starting and ending point of the square needed to be exactly same?
+and If not, how to conclude whether we've done the Q1 of assignment correctly or not?",11/13/18,nutty_squirrel
+,,,,,
+joexa1p933h1rp,Week 11/11 - 11/17,      Regarding usage of different libraries,Sircan we use different python libraries available such as PIL(python image library) or do we have to use the ones mentioned in the eyrc documents?,11/13/18,ant_bot
+,,,,,
+joeq2z0xasdhi,Week 11/11 - 11/17,        Private,"While calling same function multiple times , its giving the following error :
+cv2.error: OpenCV(3.4.2) /io/opencv_contrib/modules/aruco/src/dictionary.cpp:169: error: (-215:Assertion failed) id < bytesList.rows in function 'drawMarker'
+ 
+How to resolve it ?
+ 
+Thanks in advance.
+ ",11/13/18,ant_bot
+,,,,,
+joek7jsagaw47n,Week 11/11 - 11/17,      We can use own function ?, ,11-12-2018,nutty_squirrel
+,,,,,
+joehs1uzzyhiz,Week 11/11 - 11/17,      Antbot:Font Styling,"What should be the style,size and thickness of the font that we require to embed in the white border of the aruco images.
+For example: ArUco ID = 26",11-12-2018,ant_bot
+,,,,,
+joeez3vsppo3yk,Week 11/11 - 11/17,      Border to the Image,How to embed border to the Image ,11-12-2018,ant_bot
+,,,,,
+joeeub4phoo7du,Week 11/11 - 11/17,      2. *RULES* ka #1 Point follow krne ke liye... input setup krna hoga kya?, ,11-12-2018,ant_bot
+,,,,,
+joeeqrd2h2x513,Week 11/11 - 11/17,      BGR to RGB,How to convert BGR to RGB using cvtcolor function,11-12-2018,ant_bot
+,,,,,
+joeeohbhbcd21h,Week 11/11 - 11/17,      Question:  1. Aruco_gen() ke number of arguments change kr skte hain?, ,11-12-2018,ant_bot
+,,,,,
+joeaae5mmgv1td,Week 11/11 - 11/17,      the table  in task discription is the output or it is example.what is meaning of none in image3.., ,11-12-2018,ant_bot
+,,,,,
+joea2a6xgvr652,Week 11/11 - 11/17,      Ant Bot - Task1.2 : Generalized code,"Since only those shapes mentioned in the task instructions have to be detected, is it okay to hardcode which shapes to find. And in such a case what does the pdf mean my ""generalized"" code.Similarly for the different ArUCo dictionaries, is it possible to change the number of arguments in the function detect_Aruco in aruco_lib or can we only change the line specified in the instructions.",11-12-2018,ant_bot
+,,,,,
+joe9u31vqkz18f,Week 11/11 - 11/17,      Are we supposed to submit two codes?,"Regarding the codes to generate Aruco Marker
+ 
+ 
+Since 2 pairs of Aruco Marker belong to different Dictionaries. Are we supposed to submit two codes. One for 4X4_50 and one for 5X5_250
+ 
+Secondly, I'm completely confused about what we are allowed to change and what we aren't allowed to in the given code. Please make it clear for me",11-12-2018,ant_bot
+,,,,,
+joe3t0y28jl3ve,Week 11/11 - 11/17,      Regarding font,I sir we have to display a font on a white border of image..is there any particular size for font size or don't type...can we take any font style Nd any size of font ???,11-12-2018,ant_bot
+,,,,,
+joe2i8wsco46gp,Week 11/11 - 11/17,      Should the aruco id be exactly at the centre of the image,Should the aruco id be exactly at the centre of the image or we can place it manually at the middle by manually entering the pixels.,11-12-2018,ant_bot
+,,,,,
+joe1vupl8a9ej,Week 11/11 - 11/17,      adding border in aruco generated fig,"sir we have to generate an aruco of 400 pixels and embedded a border of 25 pixels then the border should be within 400 pixels or outside the 400 pixels 
+ 
+#team_id 5352",11-12-2018,ant_bot
+,,,,,
+jodyc65svea3e3,Week 11/11 - 11/17,      Regarding saving the images,"The format of saving the images mentioned is ArUcoID.jpg , but if we make the code generalised and we take 2 same IDs from different Dictionaries it will create a problem as only 1 out of them will get saved.
+For eg. 2 from 4X4_50 and 2 from 5X5_250, both will be saved as ArUco2.jpg and one will overwrite the other.
+So ,what should we do in this case?
+ 
+Team id -183",11-12-2018,ant_bot
+,,,,,
+jodt03fl99i44u,Week 11/11 - 11/17,      About the arguments in the function,Can we have more than 2 arguments in the given function aruco_gen,11-12-2018,ant_bot
+,,,,,
+jodn0emrkgm35s,Week 11/11 - 11/17,      regarding module,"can i have to install matplotlib or is it already installed  ??
+if yes then which version of matplotlib i have to install in window10 ?",11-12-2018,ant_bot
+,,,,,
+jod9toqmroj5ee,Week 11/11 - 11/17,      #2187 Task1.2,"the colour and shape detection code....I don't think we can make a generalised code as we have been given what shape and of which colour we have to detect
+So, we have to hard code it only
+ 
+so do we make this part also generalised or how E-Yantra is going to evaluate it so that I can get an idea?",11-12-2018,ant_bot
+,,,,,
+jod947r374q13u,Week 11/11 - 11/17,      Datatype of arguments,Is it allowed to change the datatype of arguments used in the function? Is it considered as changing the skeleton of code?,11-12-2018,ant_bot
+,,,,,
+jod7m4iqn3r54i,Week 11/11 - 11/17,      regarding aruco,">>> aruco_dict = aruco.Dictionary_get(aruco.Dict_5X5_250)Traceback (most recent call last): File ""<stdin>"", line 1, in <module>NameError: name 'aruco' is not defined  
+ 
+why i m getting this kind of error..",11-11-2018,ant_bot
+,,,,,
+jod6x9rf2i532z,Week 11/11 - 11/17,      ant_bot_task1.2," can we use additional packages like  imutils,scipy for color and shape dectections.",11-11-2018,ant_bot
+,,,,,
+jod54kpkw6x39m,Week 11/11 - 11/17,      ant_bot task1.2,we are getting all aruco markers orientation angle 90 degrees is it correct or wrong?,11-11-2018,ant_bot
+,,,,,
+jod4u79vrml6tf,Week 11/11 - 11/17,      Ant Bot code issue,As mentioned in the rules. Few more tests will be done by the E- Yantra team for testing the ArUco IDs. So the code should ask about the input for ArUco ID or the team will change IDs inside the program??,11-11-2018,ant_bot
+,,,,,
+jod2tl233jq3tj,Week 11/11 - 11/17,      help command_prompt,"why it will not show all supported function ?? 'more' is not recognized as an internal or external command, means ?? plz reply ",11-11-2018,ant_bot
+,,,,,
+jocys2swmud2rb,Week 11/11 - 11/17,      Alignment of title,Is it necessary to exactly center align the title on border? Are approximations accepted? If center aligning is necessary then how will that be done?,11-11-2018,ant_bot
+,,,,,
+jocyl3tkg0i6yu,Week 11/11 - 11/17,      #2187,what do you mean to find angle of aruco marker in Task1.2,11-11-2018,ant_bot
+,,,,,
+jocucandl1fi4,Week 11/11 - 11/17,      regarding generalisation of code in task 1.1,"Are we allowed to take input from user while making our code ?
+and if this is true than is there any specific format for taking the inputs or we can simple use statements
+i.e. enter the id : 9
+      enter the dictionary: 4X4_50
+ ",11-11-2018,ant_bot
+,,,,,
+jocsz0cw51k6sf,Week 11/11 - 11/17,      Input error,"I tried accepting input as c=int(input(""enter a no"")) it shows invalid syntax pleaae help in fixing this issue",11-11-2018,ant_bot
+,,,,,
+jocq35g3rum487,Week 11/11 - 11/17,      RGB or BGR,"I have converted the marker image to BGR instead of RGB. Is their any problem with that?
+The text on aruco marker is still in red color.",11-11-2018,ant_bot
+,,,,,
+jocob9rm1o811a,Week 11/11 - 11/17,      Regarding 4x4 and 5x5 dictionaries Task1.1,"1)Will the custom inputs for task1.1 be limited to only 4x4 and 5x5 dict or do we have to make it so any dict is possible
+2)Also is there any fixed order that the first two inputs will be from 4x4 and next two must be from 5x5",11-11-2018,ant_bot
+,,,,,
+jochxgmqd8e6nt,Week 11/11 - 11/17,      order of imwrite and imshow,"If i execute imshow b4 imwrite img does not save but if i run imwrite b4 imshow img saves 
+does order really matter?",11-11-2018,ant_bot
+,,,,,
+joc4joynbud6g2,Week 11/11 - 11/17,      Adding Text,I tried adding text but in the synatx I hqd put the picel values of red colour but still it is showing white.How should I rectify it?I tried adding the pixel value for red but it isnt showing any colour but shows only colour for black text.Help me to fix this issue,11-11-2018,ant_bot
+,,,,,
+jobs8h7tojdq7,Week 11/4 - 11/10,      converting to rgb,"when I run my module after writing the conversion code...an error occurs--->TypeError: only size-1 arrays can be converted to Python scalars
+Please help me.",11-10-2018,ant_bot
+,,,,,
+jobs73y5r6w3z3,Week 11/4 - 11/10,      regarding output of task1.1,"1.) In the task dexcription of task1.1,the example figure shown in the file has a outermost black boundary but in the statements it is not mentioned that we have to make a black boundary outside the aruco marker. So what we have to do?
+Make the black boundary or not ?
+ 
+2.) It is asked to embed a boundary of 25 pixels all around the image in 3 channels also...but in the problem statement it is not mentioned that we have to show the image in those channels also......so is it necessary to show 25pixel border around the image in those 3 channel ?",11-10-2018,ant_bot
+,,,,,
+jobr6q6e21tzn,Week 11/4 - 11/10,      Error in Running the ObjectDetect program,"Error is as follows :
+ 
+Traceback (most recent call last): File ""C:\Users\Viren K Ramchandani\Downloads\5\objectDetect.py"", line 51, in <module> hsv = cv2.cvtColor(frame,cv2.COLOR_BGR2HSV)cv2.error: OpenCV(3.4.2) c:\projects\opencv-python\opencv\modules\imgproc\src\color.hpp:253: error: (-215:Assertion failed) VScn::contains(scn) && VDcn::contains(dcn) && VDepth::contains(depth) in function 'cv::CvtHelper<struct cv::Set<3,4,-1>,struct cv::Set<3,-1,-1>,struct cv::Set<0,5,-1>,2>::CvtHelper'
+ 
+(I have attached the image file of Error as well as the code)
+ 
+code : objectDetect.py
+ 
+ 
+Error Screenshot :",11-10-2018,ant_bot
+,,,,,
+jobox992et94iq,Week 11/4 - 11/10,      Assessment of code.,"As our team is trying to write a code that is general for all IDs and some bit size and combinations. We want to know that how are we going to be assessed as we try to generalise our code we need to include user interaction in our code but if a computer is going to give input into our code then we might fail.
+In page no. 2 of read me task1.1.pdf under a note it is written that ""The files submitted by you will be run through a test script for automatic grading"". But in some of the posts in piazza forum it is said by the instructors that one should try to generalise their code which is possible only if a human tries to assess our code.
+Please help, regards.",11-10-2018,ant_bot
+,,,,,
+jobm62p11eg5rg,Week 11/4 - 11/10,"      functions left,right is mandatory??","sir,is it necessary to use forward, right,left functions in our code for path following??",11-10-2018,nutty_squirrel
+,,,,,
+jobkfaiz4062ce,Week 11/4 - 11/10,      Antbot task 1.1,Can anyone explain what are 3 channels of the image in task1.1 antbot and how to set it to given pixel values ?,11-10-2018,ant_bot
+,,,,,
+jobib0tpkkv5bx,Week 11/4 - 11/10,      Query on Indentation,Can we alter the indentation of the skeleton code in Task 1.1? It will be impossible to give a generalized solution without the option of modifying the indentation atleast a little.,11-10-2018,ant_bot
+,,,,,
+jobh1or2fa23w4,Week 11/4 - 11/10,      OpenCV not saving jpg,"imwrite(xyz.jpg,img) does not work but imwrite(xyz.bmp,img) works
+how can i make opencv save marker in jpg format??",11-10-2018,ant_bot
+,,,,,
+jobgk2aq2qz3s7,Week 11/4 - 11/10,      Converting into RGB,Is there any problem of having RGB border lines after converting the ARUCO marker into RGB??  ,11-10-2018,ant_bot
+,,,,,
+jobdthpr4n236l,Week 11/4 - 11/10,      program execution,"Do i have to show all 4 images in a single program execution??
+Or, can i show 4 images in multiple time  program execution??  ",11-10-2018,ant_bot
+,,,,,
+jobd5xi3navuk,Week 11/4 - 11/10,      Team ID-2187,"Code folder has aruco_lib.py
+So, can we use the functions in it made by EYantra team directly in our solution code
+if No,
+what is exact use of that file
+because I'm not getting the code written it efficiently.",11-10-2018,ant_bot
+,,,,,
+job9y7vc5eq3wd,Week 11/4 - 11/10,      Not able to understand first point,"I am not able to understand the first point of the below comment
+It says to convert the marker image to rgb...Is it initially in any other colour format?
+ 
+ 
+",11-10-2018,ant_bot
+,,,,,
+job7yx6pfzh1v0,Week 11/4 - 11/10,      asking for the input values,"can i ask the user to enter the 4 values such as n,c,id_aruco and num_pixels??",11-10-2018,ant_bot
+,,,,,
+job6m326o234vd,Week 11/4 - 11/10,      Ant bot aruco clarification,"For task1.1 in the antbot track, what set of inputs will be given to check the code...",11-10-2018,ant_bot
+,,,,,
+job1x1lgfmw21y,Week 11/4 - 11/10,      What does the function aruco.drawmarker() do?,Could you pls provide the definition for a aruco.drawmarker() it's not given in the aruco_lib.py.,11-10-2018,ant_bot
+,,,,,
+job08i7xz522g0,Week 11/4 - 11/10,      Use of additional fucntions of python in Task 1.1,"Hi all.
+ 
+My doubt is, can we use additional functions of opencv-python for aruco marker generation?
+My aim is to generalise the code very extensively. so instead of aruco.X, can we use getattr(aruco, 'X')?
+Also, can we use for loops, if else construct etc.?
+ 
+Thank you so much.",11-10-2018,ant_bot
+,,,,,
+job060xp6q82v9,Week 11/4 - 11/10,      Task 1.1 AntBot Generalised Code,"The Task mentions that :
+Your code will be tested for creating a marker set of undisclosed ArUco IDs when you submit your code.
+Since we are cannot specify the dictionaries dynamically we have to define them explcitely, how will the automated script test for new ArUco Ids whose dictionaries (cannot be specified beforehand) or is there any format in which the input will be provided ?
+The explanation for the similar questions mentioned on how to create a single python script to generate 4 images but not on this part",11-10-2018,ant_bot
+,,,,,
+joakcd9y43t3q9,Week 11/4 - 11/10,      Input by the user,"Can we take the input of n and c from the user or do we have to define n and c specifically for different dictionaries?
+And if the latter is true then do we have to make it only for 4X4_50 and 5X5_250 or not?",11-10-2018,ant_bot
+,,,,,
+joabmuek3n3av,Week 11/4 - 11/10,      Ant bot - Task 1.1 Inputting ID and Dictionary selection.,"Hello everyone. I have two queries.
+ 
+1) When making the generalised version of the Task1.1.py , how to take the input for ArUco ID ? Should I take it from console (e.g in python with input() function) ? If Yes, then what's the format to take input? If No, then how will the generalised version be tested?
+ 
+2) In a previous answer it was mentioned ""The dictionary values have to be very specific. Write the values of n and C directly i.e. eg. 4x4_1000"". I want to ask whether I should use 4x4_1000 (or any other chosen dictionary) for all the input ID's OR I can use any dictionary for any input ID ?
+ 
+NOTE : The above mentioned points are regarding the generalized version. And NOT about the 4 ArUco Markers to be made from the Table in Task Description. ",11-09-2018,ant_bot
+,,,,,
+joa9jhug6q44du,Week 11/4 - 11/10,      Queries about task 1.2,"Team ID: eyrc#1301
+In task 1.2, in the given Task1.2 file, we have 2 variables x and y. Are we supposed to hardcode them or we have to find them?",11-09-2018,ant_bot
+,,,,,
+joa8jkk1sug3mw,Week 11/4 - 11/10,      Task 1.2 of antbot,"Should we read all the four images in a single python file and should it write .csv file automatically ...or should we run python file 4 times, each time different path should be given as well as sequence specifications.",11-09-2018,ant_bot
+,,,,,
+joa7fg3g4ai4zz,Week 11/4 - 11/10,      rgb/brg,Is there any difference between RGB and BRG colour space? Do we have to convert aruco marker from gray to rgb/brg?,11-09-2018,ant_bot
+,,,,,
+joa4fo1omoo5zk,Week 11/4 - 11/10,      attribute error in aruco module,"  module 'cv2.aruco' has no attribute 'DICT_5x5_250'
+
+This error is popping up each time I am trying to run the following statement:
+
+aruco_dict=aruco.Dictionary_get(aruco.DICT_5x5_250)
+
+Please reply",11-09-2018,ant_bot
+,,,,,
+joa25kaf8bo6cs,Week 11/4 - 11/10,      #antbot   task1.1  regarding saving of image,Should python file automatically save all the 4 images in images directory...or can v copy the images in a seperate folder compress it ?,11-09-2018,ant_bot
+,,,,,
+joa00fe55ir4ep,Week 11/4 - 11/10,      regarding op,"for tha task 1.1 we have to store 4 images , is 4 images we have to store  in a single execution of  program or run program 4 times to store image ? ",11-09-2018,ant_bot
+,,,,,
+jo9xkrkk47f28y,Week 11/4 - 11/10,      related with aruco marker,Sir can we get link of tutorials of basics of ArUco markers working with python,11-09-2018,ant_bot
+,,,,,
+jo9wm6b9rxt4n0,Week 11/4 - 11/10,      embed id,how to embed the id within the white border?,11-09-2018,ant_bot
+,,,,,
+jo9tqn4yeg57e2,Week 11/4 - 11/10,      hard code n and c or not in task1.1?,"how to hard code n and c if we need two different values of n and c throughout the execution, as we have to use 4x4 and 5x5 bit size?
+Can I create a new function for 5x5 and use the already defined function for 4x4?",11-09-2018,ant_bot
+,,,,,
+jo9my063abj50j,Week 11/4 - 11/10,      last command shows a name error. how to correct it??,,11-09-2018,ant_bot
+,,,,,
+jo9lit4kgfn2jl,Week 11/4 - 11/10,      Regarding Aruco marker,SirIn aruco marker dictionary of 4*4 bit size how come 50 combinations are possible ?The 4*4 grid will have 3 parity bits and one data bit.So that has 4 bits so 2^4=16So only 16 combinations are possible ?,11-09-2018,ant_bot
+,,,,,
+jo9ful6qnvj307,Week 11/4 - 11/10,      Number of Python Scripts.,"Should I write 4 different scripts for 4 different marker generators ..or should I write the code to generate 4 different markers in one script.
+ ",11-09-2018,ant_bot
+,,,,,
+jo8zsqth70m1mr,Week 11/4 - 11/10,      Do we need to embed the angle and ID of ArUco in task1.2,"TeamID-2187
+Do we need to embed the angle and ID of Aruco on the image in task1.2 ",11-09-2018,ant_bot
+,,,,,
+jo8umiljot036x,Week 11/4 - 11/10,      Outputs not Matching,"for a input of 4 id's , is we have to provide 4 ids in a single execution of program or run it 4 times to store images ?? i think we have to store in single execution but still i have a few doubts so i am asking this question ...",11-08-2018,ant_bot
+,,,,,
+jo8plbzojgw2at,Week 11/4 - 11/10,      Generalised function of ant bot,"for making a generalised function do we have to ask inputs from user like bit size, marker ID, etc.",11-08-2018,ant_bot
+,,,,,
+jo8m809zk7p7p5,Week 11/4 - 11/10,      Ant Bot task queries,"Dear Sir, I have some queries:
+Do we have to modify only some part of the given function or can we modify the whole function without changing its name?Do we have to hard code n and C in the Task1.1.py file or generalize n and C also?",11-08-2018,ant_bot
+,,,,,
+jo8l4s0tvmle2,Week 11/4 - 11/10,      ArUco Dictionary Doubt,"The aruco ex given in the pdf getting started with ArUco doesnot match in Dictionary DICT_5X5_1000 but match in DICT_ARUCO_ORIGINAL
+ 
+DICT_5X5_1000 image:
+
+DICT_ARUCO_ORIGINAL image:
+
+Which Dictionary are we supposed to use
+ ",11-08-2018,ant_bot
+,,,,,
+jo81ajm5x7a1lo,Week 11/4 - 11/10,      Task 1 Released,"Dear Participants,
+ 
+We are glad to announce that Task 1 has been released. Please visit the portal and download the same.
+ 
+We advise you to start at the earliest to maintain balance between tasks and institute curriculum.
+ 
+Before posting any query, please read the documents provided carefully as every relevant information is provided there.
+ 
+NOTE: 1. Please make sure that you are receiving the correct theme folder for Task 1. If there is any error please let us know.
+2. Kindly post ONLY under your respective theme name to not get confused with resources/tasks in other themes of your track.
+ 
+Happy learning and All the Best !!
+ 
+Thanks and regards,
+e-Yantra Team",11-08-2018,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jo7nc4nvj9p6al,Week 11/4 - 11/10,      Specifics about the size of image to be generated as ArUco marker,In the task it's written to keep the size of marker as 400*400.But we also have to pad those images so I wanted to ask if 400*400 size is just for the marker or the complete image with the border and label ?,11-08-2018,ant_bot
+,,,,,
+jo7ea0rwwrm6oc,Week 11/4 - 11/10,      Regarding folder naming,In folder naming do we have to write # before id or # is not required as given in example?  ,11-07-2018,ant_bot
+,,,,,
+jo5y38rmz401ed,Week 11/4 - 11/10,      output.csv file not generating,"output.csv file is not generating in test_setup folder even after getting the correct output, what shall i do ?",11-06-2018,ant_bot
+,,,,,
+jo380bmwd4x1hx,Week 11/4 - 11/10,      Is python 3.5.2 necessary ?, ,11-05-2018,ant_bot
+,,,,,
+jnyn0bkee184ll,Week 10/28 - 11/3,      couldn't downgrade the installed version of python in linux,"I'm using Ubuntu 18.04. I installed 3.6.6 version of python and couldn't change it to 3.5.2. I tried uninstalling everything and installed it again. I couldn't make it.Please help.
+ ",11-01-2018,ant_bot
+,,,,,
+jnxj6m7ordi1c1,Week 10/28 - 11/3,      Task 0 Released," 
+Dear Participants,
+ 
+We are glad to announce that Task 0 has been released. Please visit the portal and download the same.
+ 
+We advise you to start at the earliest to maintain balance between tasks and institute curriculum.
+ 
+Before posting any query, please read the documents provided carefully as every relevant information is provided there.
+ 
+NOTE: 1. Please make sure that you are receiving the correct theme folder for Task 0. If there is any error please let us know.
+            2. We have tested the software/libraries installation with appropriate versions and on specified operating systems as mentioned in the documents. Thus it is advised that you download the same versions and follow the given instructions as stated for successful completion of Task 0.
+ 
+Happy learning and All the Best !!
+ 
+Thanks and regards,
+e-Yantra Team",11-01-2018,"ant_bot,nutty_squirrel,thirsty_crow"
+,,,,,
+jnwrxjk9imi4np,Week 10/28 - 11/3,      Help regarding uploading of NOC,"I have uploaded NOC of track 1 .. but today mail comes regarding this which says that NOC is rejected .. saying NOC  track 2 is uploaded instead of track 1..but I have uploaded track 1 .. Please help to solve this problem regarding submission of NOC ..
+Team id eYRc#322",10/31/18,ant_bot
