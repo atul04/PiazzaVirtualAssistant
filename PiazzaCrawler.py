@@ -2,7 +2,7 @@
 # @Date:   2019-01-27T16:51:15+05:30
 # @Email:  atulsahay01@gmail.com
 # @Last modified by:   atul
-# @Last modified time: 2019-07-01T18:35:32+05:30
+# @Last modified time: 2019-07-01T21:16:21+05:30
 
 
 
@@ -47,7 +47,7 @@ login_button[0].click()
 soup = BeautifulSoup(driver.page_source, "html.parser")
 tree = lxml.html.fromstring(driver.page_source)
 click_button_drop_down_list = driver.find_elements_by_id('network_button')
-if(click_button_drop_down_list is not None):
+if(click_button_drop_down_list is not None and len(click_button_drop_down_list)>0):
     click_button_drop_down_list[0].click()
 time.sleep(3)
 click_button_toggle_button = driver.find_element_by_id('inactive_network_toggle')
@@ -74,7 +74,7 @@ time.sleep(5)
 QuestionFeeds = tree.xpath('//*[@class="feed_item clearfix note "]')
 loadMoreButton = driver.find_elements_by_id('loadMoreButton')
 print(loadMoreButton)
-if(loadMoreButton is not None):
+if(loadMoreButton is not None and len(loadMoreButton)>0):
     loadMoreButton[0].click()
 
 
