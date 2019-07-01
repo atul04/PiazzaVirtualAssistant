@@ -2,7 +2,7 @@
 # @Date:   2019-01-27T16:51:15+05:30
 # @Email:  atulsahay01@gmail.com
 # @Last modified by:   atul
-# @Last modified time: 2019-05-18T22:58:01+05:30
+# @Last modified time: 2019-07-01T18:35:32+05:30
 
 
 
@@ -46,13 +46,37 @@ login_button = driver.find_elements_by_id('modal_login_button')
 login_button[0].click()
 soup = BeautifulSoup(driver.page_source, "html.parser")
 tree = lxml.html.fromstring(driver.page_source)
+click_button_drop_down_list = driver.find_elements_by_id('network_button')
+if(click_button_drop_down_list is not None):
+    click_button_drop_down_list[0].click()
+time.sleep(3)
+click_button_toggle_button = driver.find_element_by_id('inactive_network_toggle')
+if(click_button_toggle_button is not None):
+    click_button_toggle_button.click()
+time.sleep(3)
 
+# Now we will see the track List to traverse
+tree = lxml.html.fromstring(driver.page_source)
+trackList = tree.findall('.//ul[@id="my_classes"]')
+trackList = trackList[0].getchildren()
+print("----------------------------Track List----------------------\n")
+for num,i in enumerate(trackList[:-1]):
+    # print(i)
+    print('[{}]'.format(num),i.text_content(),sep="  ")
+    print()
+track_to_traverse = int(input("Select One : "))
+fileName = "_".join(trackList[track_to_traverse].text_content().split())
+print(fileName)
+b = driver.find_elements_by_id(trackList[track_to_traverse].attrib['id'])
+b[0].click()
+time.sleep(5)
 ### Trying to find all the class feed item feeds
 QuestionFeeds = tree.xpath('//*[@class="feed_item clearfix note "]')
 loadMoreButton = driver.find_elements_by_id('loadMoreButton')
 print(loadMoreButton)
 if(loadMoreButton is not None):
     loadMoreButton[0].click()
+
 
 time.sleep(5) #till loading the next contents
 tree = lxml.html.fromstring(driver.page_source) #new content
@@ -64,7 +88,7 @@ feedList = []
 
 
 # Writing to the csv files ( particularly 2 READ and UNREAD )
-with open("PIAZZA_read.csv",mode='w') as file:
+with open(fileName+".csv",mode='w') as file:
     writer = csv.writer(file,delimiter=',',quotechar='"',quoting=csv.QUOTE_MINIMAL)
     writer.writerow(['ID','HEADER','TITLE','MAIN_CONTENT','DATE','TAGS'])
     try:
@@ -92,18 +116,18 @@ with open("PIAZZA_read.csv",mode='w') as file:
                     eachContentMap['unread'] = 1
                 else:
                     eachContentMap['unread'] = 0
-                    b = driver.find_elements_by_id(qId)
-                    b[0].click()
-                    time.sleep(5)
-                    tree = lxml.html.fromstring(driver.page_source) #new content
-                    tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
-                    tagList = []
-                    for eachTag in tagSet:
-                        tagList.append(eachTag.text_content())
-                    print(tagList)
-                    eachContentMap['tags']=','.join(tagList)
-                    questionText = tree.xpath('//div[@id="questionText" and @class="post_region_text"]')[0].text_content()
-                    eachContentMap['main_content'] = questionText
+                b = driver.find_elements_by_id(qId)
+                b[0].click()
+                time.sleep(5)
+                tree = lxml.html.fromstring(driver.page_source) #new content
+                tagSet = tree.xpath('//span[@data-pats="folders_item"]/a[@class="tag folder"]')
+                tagList = []
+                for eachTag in tagSet:
+                    tagList.append(eachTag.text_content())
+                print(tagList)
+                eachContentMap['tags']=','.join(tagList)
+                questionText = tree.xpath('//div[@id="questionText" and @class="post_region_text"]')[0].text_content()
+                eachContentMap['main_content'] = questionText
 
 
                 questionChildrens = eachContent.getchildren()
@@ -121,12 +145,12 @@ with open("PIAZZA_read.csv",mode='w') as file:
                 qId    = eachContentMap['id']
                 qTitle = eachContentMap['Title']
                 qDate  = eachContentMap['date']
-                if(eachContentMap['unread'] == 0):
-                    qTags    = eachContentMap['tags']
-                    qContent = eachContentMap['main_content']
-                    writer.writerow([qId,feedHeader,qTitle,qContent,qDate,qTags])
-                else:
-                    print("unread\n")
+                # if(eachContentMap['unread'] == 0)
+                qTags    = eachContentMap['tags']
+                qContent = eachContentMap['main_content']
+                writer.writerow([qId,feedHeader,qTitle,qContent,qDate,qTags])
+                # else:
+                    # print("unread\n")
 
             # feedList.append(perFeedMap)
     except:
