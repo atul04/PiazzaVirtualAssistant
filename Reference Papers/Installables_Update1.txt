@@ -96,3 +96,5 @@ C. NLP Tokens (NLTK)
 24. https://bensen.ai/elmo-meet-bert-recent-advances-in-natural-language-embeddings/
 
 25. https://www.topbots.com/ai-nlp-research-pretrained-language-models/
+
+26. https://nlp.stanford.edu/projects/snli/
