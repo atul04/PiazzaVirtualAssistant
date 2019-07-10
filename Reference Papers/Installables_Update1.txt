@@ -92,3 +92,5 @@ C. NLP Tokens (NLTK)
 22. https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
 
 23. https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
+
+24. https://bensen.ai/elmo-meet-bert-recent-advances-in-natural-language-embeddings/
