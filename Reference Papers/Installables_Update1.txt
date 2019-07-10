@@ -84,3 +84,5 @@ C. NLP Tokens (NLTK)
 18. https://github.com/pytorch/pytorch/issues/10657
 
 19. http://jalammar.github.io/illustrated-bert/
+
+20. https://allennlp.org/elmo
