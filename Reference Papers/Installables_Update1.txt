@@ -82,3 +82,5 @@ C. NLP Tokens (NLTK)
 17. https://rocm-documentation.readthedocs.io/en/latest/Deep_learning/Deep-learning.html
 
 18. https://github.com/pytorch/pytorch/issues/10657
+
+19. http://jalammar.github.io/illustrated-bert/
