@@ -1,0 +1,1 @@
+{"lang":"en","name":"model","version":"0.0.0","spacy_version":">=2.1.4","description":"","author":"","email":"","url":"","license":"","vectors":{"width":100,"vectors":1890,"keys":1890,"name":"en_model.vectors"},"pipeline":[]}
